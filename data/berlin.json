@@ -3,19 +3,19 @@
     "date": "April 16 - May 2, 1945",
     "location": "Berlin, Germany",
     "result": "Decisive Soviet victory",
-    "outcome": "Suicide of Adolf Hitler; unconditional surrender of Nazi Germany; end of World War II in Europe.",
-    "allied_commanders": "Georgy Zhukov, Ivan Konev, Konstantin Rokossovsky",
+    "outcome": "Fall of Berlin; Hitler's suicide (30 April); Berlin garrison surrenders (2 May); German national surrender 7–9 May 1945 (V-E Day)—end of the war in Europe.",
+    "allied_commanders": "Georgy Zhukov, Ivan Konev, Konstantin Rokossovsky (Polish 1st Army also fought in the operation)",
     "axis_commanders": "Helmuth Weidling, Gotthard Heinrici, Theodor Busse, Adolf Hitler (in bunker)",
-    "allied_forces": "Soviet Union: 2,500,000 soldiers, 6,250 tanks, 7,500 aircraft, 41,600 artillery pieces",
-    "axis_forces": "German Garrison: Approx. 766,000 soldiers (mostly depleted Wehrmacht/SS divisions, Volkssturm militia, and Hitler Youth)",
-    "allied_casualties": "Estimated 81,116 killed/missing, 280,251 wounded",
-    "axis_casualties": "Approx. 92,000 to 100,000 killed, 220,000 wounded, 480,000 captured; over 125,000 civilians killed",
+    "allied_forces": "Soviet Union (with Polish 1st Army): ~2.3–2.5 million soldiers, ~6,250 tanks/SPGs, ~7,500 aircraft, massive artillery concentrations",
+    "axis_forces": "Roughly 700,000–1,000,000 German troops facing the Berlin Strategic Offensive (Army Group Vistula, Ninth Army, and others); far fewer effectives inside the Berlin Defence Area itself (often estimated in the tens of thousands to ~100,000, figures vary)",
+    "allied_casualties": "Approx. 81,116 killed/missing and 280,251 wounded/sick (Krivosheev archival figures for the Berlin operation)",
+    "axis_casualties": "Approx. 92,000–100,000 military dead (range), 220,000+ wounded, ~400,000–480,000 captured in the operation; ~100,000–125,000+ civilians killed in the battle area",
     "image": "assets/images/battle_of_berlin_1783712268854.png",
     "chapters": [
         {
             "title": "Strategic Context & The Race for the Capital",
             "content": [
-                "By the spring of 1945, the Third Reich was in its death throes. The Red Army had advanced from the East, reaching the Oder River, just 40 miles from Berlin. The Western Allies had crossed the Rhine, advancing rapidly. Supreme Allied Commander Dwight D. Eisenhower decided to halt at the Elbe River, ceding the capture of Berlin to the Soviets due to agreed-upon post-war occupation zones and high casualty estimates.",
+                "By the spring of 1945, the Third Reich was collapsing. The Red Army had reached the Oder River, roughly 40 miles from Berlin. Western Allied armies had crossed the Rhine, but Supreme Commander Dwight D. Eisenhower ordered a halt on the Elbe River rather than a race for Berlin. That decision reflected Yalta-era occupation zones already agreed in outline, the high casualties expected in a street fight for the capital, and competing operational priorities—not simple indifference to the city's symbolism.",
                 "Soviet Premier Joseph Stalin was determined to capture the German capital before the Western Allies could reach it. Stalin wanted to secure German industrial assets, nuclear research facilities, and the ultimate symbolic prize of the Reichstag. He created a competition between his top marshals, Georgy Zhukov (1st Belorussian Front) and Ivan Konev (1st Ukrainian Front), ordering them to race each other to capture Berlin."
             ]
         },
@@ -33,7 +33,7 @@
                 {
                     "type": "sidebar",
                     "title": "Weapons Profile: The Panzerfaust",
-                    "text": "The Panzerfaust was a cheap, disposable anti-tank weapon fired from the shoulder. It was highly effective in urban combat, allowing a single soldier\u2014or a child from the Hitler Youth\u2014to destroy a Soviet heavy tank from a hidden window."
+                    "text": "The Panzerfaust was a cheap, disposable anti-tank weapon fired from the shoulder. It was highly effective in urban combat, allowing a single soldier—or a child from the Hitler Youth—to destroy a Soviet heavy tank from a hidden window."
                 },
                 "The German defenders had limited ammunition and fuel. Many units were equipped with captured weapons and lack basic supplies. The Volkssturm (civilian militia consisting of old men and boys) were armed with outdated rifles and Panzerfausts, lacking uniforms, training, and communication radios."
             ]
@@ -55,14 +55,14 @@
         {
             "title": "The Battle for the Reichstag",
             "content": [
-                "The climax of the battle centered on the Reichstag building\u2014the symbolic parliament of Germany. On April 28, Soviet troops reached the K\u00f6nigsplatz. The Reichstag was fortified by the Germans, who bricked up windows and dug anti-tank ditches, turning it into a fortress.",
+                "The climax of the battle centered on the Reichstag building—the symbolic parliament of Germany. On April 28, Soviet troops reached the Königsplatz. The Reichstag was fortified by the Germans, who bricked up windows and dug anti-tank ditches, turning it into a fortress.",
                 "On April 30, Soviet soldiers breached the building, initiating room-by-room combat in the pitch-black corridors. Late that night, Soviet soldiers raised the Red Flag over the roof of the Reichstag. The event was photographed by Yevgeny Khaldei, serving as the iconic image of Soviet victory in Berlin."
             ]
         },
         {
-            "title": "Hitler's End in the F\u00fchrerbunker",
+            "title": "Hitler's End in the Führerbunker",
             "content": [
-                "While the battle was raging in the streets, Adolf Hitler remained in his subterranean F\u00fchrerbunker beneath the Reich Chancellery. Physical declining and detached from reality, he spent his final days ordering non-existent armies to relieve Berlin, raging at his generals for 'betrayal', and writing his political testament.",
+                "While the battle was raging in the streets, Adolf Hitler remained in his subterranean Führerbunker beneath the Reich Chancellery. Physical declining and detached from reality, he spent his final days ordering non-existent armies to relieve Berlin, raging at his generals for 'betrayal', and writing his political testament.",
                 "On April 30, as Soviet troops advanced close to the Chancellery, Hitler committed suicide by gunshot, while his wife Eva Braun took cyanide. Their bodies were carried up to the garden and burned, as Hitler had ordered, to prevent their capture. Joseph Goebbels, appointed Reich Chancellor, committed suicide with his wife the next day after poisoning their six children."
             ]
         },
@@ -70,13 +70,13 @@
             "title": "Surrender and Tragedy",
             "content": [
                 "On May 2, 1945, General Helmuth Weidling met with Soviet General Vasily Chuikov and signed the surrender of the Berlin garrison. The fighting in the city stopped. German soldiers emerged from the ruins to go into captivity.",
-                "The civilian population endured tragedy. Over 125,000 Berliners died during the siege, many of suicide, hunger, or bombardment. The Soviet victory was followed by a wave of looting and mass rapes, as Soviet soldiers exacted revenge for the atrocities committed by the Wehrmacht in the East, leaving a dark mark on the liberation."
+                "The civilian population endured catastrophe. Estimates of civilian deaths associated with the battle commonly run to about 100,000–125,000, from bombardment, hunger, suicide, and the chaos of the city's fall. The Soviet advance was also accompanied by widespread looting and mass rape—acts of revenge and breakdown of discipline that stain the military victory and remain part of the historical record of 1945 Berlin."
             ]
         },
         {
             "title": "The Aftermath & Strategic Consequences",
             "content": [
-                "The fall of Berlin led to the unconditional surrender of all German forces on May 8, 1945 (V-E Day), ending World War II in Europe. The city was divided into four occupation zones: Soviet, American, British, and French.",
+                "The Berlin garrison's surrender on 2 May was not yet Germany's national surrender. After Hitler's suicide on 30 April, Admiral Karl Dönitz briefly headed a rump government. German armed forces signed unconditional surrender documents on 7 May at Reims and in a ratified ceremony on 8–9 May in Berlin-Karlshorst—V-E Day in the West (8 May) and Victory Day in the Soviet calendar (9 May). The city was divided into four occupation sectors: Soviet, American, British, and French.",
                 "This division of Berlin, located deep inside the Soviet occupation zone of Germany, created the central flashpoint of the Cold War. It led to the Berlin Airlift of 1948-1949 and the construction of the Berlin Wall in 1961, which divided the city for nearly three decades."
             ]
         },
@@ -101,7 +101,7 @@
                     "type": "map",
                     "url": "../assets/images/maps/map_berlin.png",
                     "alt": "Battle of Berlin Tactical Map",
-                    "caption": "Battle of Berlin, April\u2013May 1945: Detailing the massive Soviet pincer movements by the 1st Belorussian and 1st Ukrainian Fronts encircling the German capital."
+                    "caption": "Battle of Berlin, April–May 1945: Detailing the massive Soviet pincer movements by the 1st Belorussian and 1st Ukrainian Fronts encircling the German capital."
                 }
             ]
         },
@@ -113,23 +113,29 @@
                     "type": "sources",
                     "items": [
                         {
-                            "title": "Imperial War Museums - The Battle of Berlin: Germany's Downfall",
+                            "title": "Imperial War Museums — The Battle of Berlin",
                             "url": "https://www.iwm.org.uk/history/the-battle-of-berlin-germanys-downfall-on-the-eastern-front",
-                            "desc": "An archival display exploring the tactics, key commanders, and civilian experience during the final battle of the European war."
+                            "desc": "IWM overview of the final Soviet offensive and the fall of Nazi Germany's capital."
                         },
                         {
-                            "title": "VisitBerlin - Museum Berlin-Karlshorst",
-                            "url": "https://www.visitberlin.de/en/museum-berlin-karlshorst",
-                            "desc": "An educational guide to the historic museum at Karlshorst where the German capitulation was signed in May 1945."
+                            "title": "German-Russian Museum Berlin-Karlshorst",
+                            "url": "https://www.museum-karlshorst.de/en/",
+                            "desc": "Museum on the site of the 8–9 May 1945 German surrender ceremony in Berlin."
                         },
                         {
-                            "title": "The Soviet War Diaries - May 1945 Archives",
+                            "title": "Library of Congress — WWII collections",
                             "url": "https://www.loc.gov/",
-                            "desc": "Original field diaries and reports of Marshals Zhukov and Konev describing the capture of the Reichstag."
+                            "desc": "Primary documents, maps, and photographic collections related to the end of the war in Europe."
                         }
                     ]
                 }
             ]
         }
-    ]
+    ],
+    "allied_commanders_label": "Soviet (& Polish) Commanders",
+    "axis_commanders_label": "German Commanders",
+    "allied_forces_label": "Soviet & Polish Forces",
+    "axis_forces_label": "German Forces",
+    "allied_casualties_label": "Soviet Casualties",
+    "axis_casualties_label": "German Casualties"
 }

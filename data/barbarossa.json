@@ -2,14 +2,14 @@
     "title": "Operation Barbarossa",
     "date": "June 22, 1941 - December 5, 1941",
     "location": "Eastern Europe",
-    "result": "Strategic Soviet victory",
-    "outcome": "Failure of Blitzkrieg to knock out the Soviet Union; Germany forced into an unsustainable war of attrition on two fronts.",
+    "result": "Axis strategic failure; Soviet operational recovery",
+    "outcome": "Germany failed to destroy the Red Army or seize Moscow before winter; the USSR survived, forcing Germany into a prolonged two-front war of attrition.",
     "allied_commanders": "Joseph Stalin, Georgy Zhukov, Semyon Budyonny, Semyon Timoshenko",
     "axis_commanders": "Adolf Hitler, Franz Halder, Gerd von Rundstedt, Fedor von Bock, Wilhelm Ritter von Leeb",
-    "allied_forces": "Soviet Union: 2.7 million active front-line soldiers, over 20,000 tanks, 8,000 aircraft",
-    "axis_forces": "Axis: 3.8 million soldiers (3.2 million Germans), 3,300 tanks, 2,700 aircraft, 7,000 artillery pieces",
-    "allied_casualties": "Over 560,000 killed, 1.3 million wounded, 2.3 million captured/missing",
-    "axis_casualties": "Approx. 250,000 killed, 500,000 wounded, 25,000 missing",
+    "allied_forces": "Soviet western districts: ~2.6–2.9 million front-line troops on 22 June; inventory of ~15,000–20,000+ tanks and ~8,000–10,000 aircraft (many obsolete or non-operational)",
+    "axis_forces": "Axis: ~3.8 million soldiers (~3.0–3.2 million German), ~3,350–3,800 tanks, ~2,700–4,000 aircraft, ~7,000+ artillery pieces, plus Romanian, Finnish, Hungarian, Italian and Slovak contingents",
+    "allied_casualties": "1941 campaign: roughly 4+ million total Soviet losses including ~2.5–3.3 million captured/missing; killed and wounded figures remain disputed by source and definition",
+    "axis_casualties": "German 1941 medical/OKH-type figures: ~186,000–250,000+ killed, ~40,000 missing, ~600,000+ wounded; Axis partners add tens of thousands more (total Axis casualties often ~1 million+)",
     "image": "assets/images/operation_barbarossa_1783712208922.png",
     "chapters": [
         {
@@ -41,7 +41,7 @@
         {
             "title": "Opening Moves & Initial Clash",
             "content": [
-                "At 3:15 AM on June 22, 1941, the Axis powers launched the invasion along an 1,800-mile front, caught the Red Army completely by surprise. The Luftwaffe struck over 60 Soviet airfields, destroying over 1,200 aircraft on the first day, mostly on the ground, and establishing absolute air superiority.",
+                "At 3:15 AM on June 22, 1941, the Axis powers launched the invasion along an approximately 1,800-mile front and caught the Red Army largely by surprise. The Luftwaffe struck over 60 Soviet airfields, destroying over 1,200 aircraft on the first day, mostly on the ground, and establishing absolute air superiority.",
                 "German armored spearheads under generals like Heinz Guderian and Hermann Hoth bypassed Soviet border units, plunging deep into the rear. Within days, they executed massive encirclements at Bialystok-Minsk, capturing over 300,000 Soviet soldiers and destroying entire armies, while Stalin remained in a state of shock, unable to coordinate a coherent response."
             ]
         },
@@ -55,14 +55,14 @@
         {
             "title": "The Battle of Moscow: Operation Typhoon",
             "content": [
-                "In October 1941, Hitler launched Operation Typhoon\u2014the final offensive to capture Moscow. The Germans initially won another massive double-encirclement at Vyazma and Bryansk, capturing another 600,000 soldiers. The Soviet government evacuated to Kuibyshev, and panic gripped the capital.",
+                "In October 1941, Hitler launched Operation Typhoon—the final offensive to capture Moscow. The Germans initially won another massive double-encirclement at Vyazma and Bryansk, capturing another 600,000 soldiers. The Soviet government evacuated to Kuibyshev, and panic gripped the capital.",
                 "Stalin remained in Moscow and appointed Marshal Georgy Zhukov to command the defenses. Zhukov mobilized civilians to dig anti-tank ditches and brought in veteran Siberian divisions from the Far East, after intelligence confirmed that Japan would not attack the Soviet Union. As the autumn rains (the Rasputitsa) turned the unpaved roads into deep mud, the German mechanized units ground to a halt."
             ]
         },
         {
             "title": "The Winter Counteroffensive",
             "content": [
-                "By late November, temperatures dropped, freezing the mud and allowing the Germans to resume their advance. Armored patrols reached the suburbs of Khimki, just 12 miles from the Kremlin. However, the Wehrmacht was exhausted, lacking winter gear, anti-freeze, and basic supplies, while their vehicles failed to start in the -30\u00b0C cold.",
+                "By late November, temperatures dropped, freezing the mud and allowing the Germans to resume their advance. Armored patrols reached the suburbs of Khimki, just 12 miles from the Kremlin. However, the Wehrmacht was exhausted, lacking winter gear, anti-freeze, and basic supplies, while their vehicles failed to start in the -30°C cold.",
                 "On December 5, 1941, Zhukov launched a massive counteroffensive, utilizing fresh Siberian troops equipped for winter warfare. The surprised and freezing Germans were thrown back up to 150 miles from Moscow. This was the first major retreat the Wehrmacht had suffered in the war, ending the myth of German invincibility."
             ]
         },
@@ -76,14 +76,14 @@
         {
             "title": "The Aftermath & Immediate Consequences",
             "content": [
-                "Operation Barbarossa failed to achieve its goals. The Red Army was not destroyed, Moscow did not fall, and the A-A line was not reached. Germany found itself trapped in a long war of attrition against a state with superior demographic reserves and an industrial base that had been relocated east of the Ural Mountains, out of range of German bombers.",
+                "Operation Barbarossa failed as a strategic campaign even though it produced enormous operational successes. The Red Army was badly battered but not destroyed; Moscow did not fall; and the Archangel–Astrakhan line was never reached. Calling the June–December 1941 phase a simple 'Soviet victory' misstates the catastrophe of the summer encirclements—yet Germany's inability to knock the USSR out of the war before winter was a decisive strategic failure for the Axis.",
                 "The failure of the offensive forced Germany to mobilize its economy for total war. It also cemented the Alliance between the Soviet Union, Great Britain, and the United States, which began shipping vital supplies to the USSR via the Arctic convoys and the Persian Corridor (Lend-Lease)."
             ]
         },
         {
             "title": "Historical Legacy & Long-term Impact",
             "content": [
-                "Barbarossa was the opening act of the Eastern Front, which consumed roughly 80% of all German casualties during World War II. The campaign's failure marked the strategic turning point of the European war, proving that Germany could not win a prolonged conflict against the combined industrial might of the Allies.",
+                "Barbarossa opened the Eastern Front, which would absorb the majority of German combat power and roughly four-fifths of German wartime military casualties. The campaign's failure did not end the war, but it ended any realistic German hope of a short European conflict and locked the Third Reich into a grinding war against a state with superior manpower reserves and an industrial base relocated east of the Urals.",
                 "In Soviet and Russian history, this conflict became known as the Great Patriotic War, serving as a defining historical narrative of sacrifice, resilience, and victory, though at the cost of over 27 million Soviet lives."
             ]
         },
@@ -131,5 +131,11 @@
                 }
             ]
         }
-    ]
+    ],
+    "allied_commanders_label": "Soviet Commanders",
+    "axis_commanders_label": "Axis Commanders",
+    "allied_forces_label": "Soviet Forces",
+    "axis_forces_label": "Axis Forces",
+    "allied_casualties_label": "Soviet Casualties",
+    "axis_casualties_label": "Axis Casualties"
 }

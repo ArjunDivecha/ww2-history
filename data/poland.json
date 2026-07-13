@@ -3,19 +3,19 @@
     "date": "September 1, 1939 - October 6, 1939",
     "location": "Poland",
     "result": "German and Soviet victory",
-    "outcome": "Partition of Poland; declarations of war by France and United Kingdom against Germany, starting WWII.",
-    "allied_commanders": "Edward Rydz-\u015amig\u0142y, W\u0142adys\u0142aw Sikorski, Juliusz R\u00f3mmel",
-    "axis_commanders": "Adolf Hitler, Fedor von Bock, Gerd von Rundstedt, Joseph Stalin, Semyon Timoshenko",
-    "allied_forces": "Approx. 950,000 Polish troops, 430 light tanks, 400 combat aircraft",
-    "axis_forces": "Germany: 1,500,000 troops (2,700 tanks, 1,300 aircraft); USSR: 466,000 troops (3,737 tanks, 2,000 aircraft)",
-    "allied_casualties": "66,000 killed, 133,700 wounded, 690,000 captured",
-    "axis_casualties": "Germany: 16,000 killed/missing, 30,000 wounded; USSR: 1,500 killed, 3,000 wounded",
+    "outcome": "Partition of Poland between Nazi Germany and the Soviet Union; Britain and France declare war on Germany (3 September), marking the start of World War II in Europe.",
+    "allied_commanders": "Edward Rydz-Śmigły (Commander-in-Chief), Juliusz Rómmel, Tadeusz Kutrzeba",
+    "axis_commanders": "German: Adolf Hitler, Fedor von Bock, Gerd von Rundstedt; Soviet: Semyon Timoshenko, Mikhail Kovalyov (co-aggressors under Molotov–Ribbentrop, not Axis members)",
+    "allied_forces": "Approx. 950,000–1,000,000 Polish troops (many incompletely mobilized), ~210 tanks + ~670 tankettes, ~400–800 aircraft",
+    "axis_forces": "Germany: ~1.5 million troops, ~2,750 tanks, ~2,000–2,315 aircraft; USSR (from 17 Sep): ~450,000–600,000 troops, ~4,700 tanks, ~2,000–3,300 aircraft",
+    "allied_casualties": "Approx. 66,000 killed, 133,700 wounded, ~660,000–690,000 captured",
+    "axis_casualties": "Germany: ~16,000–17,000 killed/missing, ~30,000 wounded; USSR: ~1,500 killed, ~2,400 wounded (official figures)",
     "image": "assets/images/invasion_of_poland_1783712194487.png",
     "chapters": [
         {
             "title": "Strategic Context & Geopolitical Buildup",
             "content": [
-                "The invasion of Poland was the calculated culmination of Adolf Hitler's long-standing diplomatic and territorial campaign in Eastern Europe. Following the annexations of Austria (the Anschluss) and Czechoslovakia's Sudetenland, Hitler sought to resolve the issue of the 'Polish Corridor'\u2014a strip of land that partitioned East Prussia from the rest of Germany\u2014and reclaim the Free City of Danzig, which was under Polish customs control. Poland, fearing a fate similar to Czechoslovakia, steadfastly refused German diplomatic demands.",
+                "The invasion of Poland was the calculated culmination of Adolf Hitler's long-standing diplomatic and territorial campaign in Eastern Europe. Following the annexations of Austria (the Anschluss) and Czechoslovakia's Sudetenland, Hitler sought to resolve the issue of the 'Polish Corridor'—a strip of land that partitioned East Prussia from the rest of Germany—and reclaim the Free City of Danzig, which was under Polish customs control. Poland, fearing a fate similar to Czechoslovakia, steadfastly refused German diplomatic demands.",
                 "The European geopolitical dynamic shifted fundamentally on August 23, 1939, when Nazi Germany and the Soviet Union signed the Molotov-Ribbentrop Pact. This non-aggression treaty shocked the Western democracies. More importantly, it contained a secret protocol that partitioned Eastern Europe into spheres of influence. Poland was divided along the Narew, Vistula, and San rivers. This pact neutralized the threat of a Soviet intervention, allowing Hitler to initiate military planning without fearing a two-front war, while guaranteeing Stalin a significant territorial buffer and time to prepare for an eventual clash."
             ]
         },
@@ -23,7 +23,7 @@
             "title": "Military Doctrines & War Plans",
             "content": [
                 "The German war plan, codenamed Fall Weiss (Case White), was developed by the Oberkommando der Wehrmacht (OKW). It envisioned a rapid, concentric invasion designed to envelop the Polish armies west of the Vistula River before they could fully mobilize. The plan relied on the coordinated use of armored columns, motorized infantry, and tactical air support to penetrate deep into Polish territory, disrupting logistics, communications, and command infrastructure.",
-                "Conversely, the Polish defensive plan, Plan Zach\u00f3d (Plan West), was deeply flawed. Political pressures forced the Polish High Command to deploy their armies along the lengthy German-Polish border to defend key industrial and agricultural regions. This wide dispersal left them highly vulnerable to encirclement. Furthermore, the Polish forces relied heavily on infantry and horse cavalry, which, although highly motivated and skilled, lacked the mobility and heavy armor required to counter the rapid German advances."
+                "Conversely, the Polish defensive plan, Plan Zachód (Plan West), was constrained by politics. The Polish High Command was pressed to deploy armies along the lengthy German–Polish border to defend industrial and agricultural regions, rather than concentrating behind the Vistula and San. This wide dispersal left forces vulnerable to envelopment. Polish units were highly motivated and included modern elements (notably the 7TP light tank and excellent anti-tank rifles), but overall mobility, radio communications, and heavy armor were insufficient against concentrated German panzer and Luftwaffe strikes. Incomplete mobilization—delayed partly to avoid provoking Berlin—also left many units understrength when the invasion began."
             ]
         },
         {
@@ -42,7 +42,7 @@
             "title": "Opening Moves & Initial Clash",
             "content": [
                 "To justify the invasion, the SS staged several border incidents, most notably the Gleiwitz incident on August 31, 1939. SS operatives dressed in Polish uniforms seized a German radio station in Gleiwitz and broadcasted an anti-German message. Concentration camp prisoners were killed and left at the scene to serve as 'evidence' of Polish aggression.",
-                "On September 1, 1939, at 4:45 AM, the German pre-dreadnought battleship Schleswig-Holstein opened fire on the Polish military depot at Westerplatte in Danzig, signaling the official start of World War II. Simultaneously, the Luftwaffe launched massive bombing raids across Poland, targeting airfields, communication nodes, and cities. Panzer units plunged across the border, quickly slicing through the thin Polish defenses and starting the encirclement of Polish armies in the border regions."
+                "On September 1, 1939, at approximately 4:45 AM, the German pre-dreadnought battleship <em>Schleswig-Holstein</em> opened fire on the Polish military depot at Westerplatte in Danzig—one of the opening shots of the European war. Simultaneously, the Luftwaffe launched massive bombing raids across Poland, targeting airfields, communication nodes, and cities. Panzer units plunged across the border, quickly slicing through thin Polish defenses and beginning the encirclement of Polish armies in the border regions. Britain and France declared war on Germany on September 3; the broader global conflict would expand as other theaters ignited in the years that followed."
             ]
         },
         {
@@ -56,7 +56,7 @@
             "title": "The Soviet Invasion",
             "content": [
                 "On September 17, 1939, the Soviet Union launched its own invasion of Poland from the east, deploying over 460,000 Red Army troops. The Soviet government justified this action by claiming that the Polish state had ceased to exist and that they were acting to protect ethnic Ukrainian and Belarusian populations. In reality, they were executing the secret terms of the Molotov-Ribbentrop Pact.",
-                "This second front shattered any remaining Polish hopes of establishing a defensive line in the Romanian Bridgehead region. Polish Commander-in-Chief Edward Rydz-\u015amig\u0142y ordered his troops to withdraw to neutral Romania and Hungary to avoid capture. The Polish armies, caught between two massive invaders, were systematically crushed in detail, though Warsaw resisted courageously until September 27."
+                "This second front shattered any remaining Polish hopes of establishing a defensive line in the Romanian Bridgehead region. Polish Commander-in-Chief Edward Rydz-Śmigły ordered his troops to withdraw to neutral Romania and Hungary to avoid capture. The Polish armies, caught between two massive invaders, were systematically crushed in detail, though Warsaw resisted courageously until September 27."
             ]
         },
         {
@@ -69,7 +69,7 @@
         {
             "title": "The Soldier's Ordeal & Civilian Impact",
             "content": [
-                "For the Polish soldier, the campaign was a desperate struggle against overwhelming odds, marked by courage, confusion, and supply failures. Polish cavalry units fought bravely, contrary to later German propaganda myths that claimed they charged tanks with lances. In reality, they functioned as mobile infantry, using anti-tank rifles and light artillery to inflict casualties on German mechanized columns.",
+                "For the Polish soldier, the campaign was a desperate struggle against overwhelming odds, marked by courage, confusion, and supply failures. Polish cavalry units fought as mobile infantry and reconnaissance forces, using anti-tank rifles and light artillery—not as medieval lancers charging tanks. The myth of futile lance charges against panzers was deliberately amplified by Nazi propaganda (and uncritically repeated in the West). At Krojanty on September 1, for example, the 18th Lancers successfully charged exposed German infantry, then were engaged by armored cars—an action twisted into propaganda about charging tanks with lances.",
                 "The civilian population suffered tremendously. The Luftwaffe targeted civilian refugees fleeing along roads to clog transportation lines and induce panic. The Siege of Warsaw saw indiscriminate shelling and bombing of residential areas. Furthermore, the German invasion saw the immediate deployment of Einsatzgruppen (SS death squads) behind the front lines to systematically identify and execute Polish elites, intellectuals, priests, and Jews, foreshadowing the atrocities of the Holocaust."
             ]
         },
@@ -77,7 +77,7 @@
             "title": "The Aftermath & Immediate Consequences",
             "content": [
                 "On October 6, 1939, the last organized Polish resistance surrendered at the Battle of Kock. Poland was divided between Nazi Germany and the Soviet Union. Germany annexed western Poland directly into the Reich and placed the central region under the administration of the General Government, headed by Hans Frank. The Soviet Union annexed eastern Poland, incorporating it into the Ukrainian and Belarusian Soviet Republics.",
-                "Both occupying powers initiated brutal campaigns of pacification, forced labor, and mass executions. The Soviets executed over 22,000 Polish officers, policemen, and intellectuals in the Katyn massacre in 1940. The Polish government-in-exile was established, first in France and later in London, coordinating a massive underground resistance network (the Home Army) that fought the occupiers throughout the war."
+                "Both occupying powers initiated brutal campaigns of pacification, forced labor, and mass executions. The Soviets executed over 22,000 Polish officers, policemen, and intellectuals in the Katyn massacre in 1940. General Władysław Sikorski—who had held no field command during the September Campaign—became prime minister of the Polish government-in-exile (first in France, later in London) and commander of Polish forces in the West, while the Home Army (Armia Krajowa) built one of Europe's largest underground resistance networks inside occupied Poland."
             ]
         },
         {
@@ -90,7 +90,7 @@
         {
             "title": "The Axis Perspective",
             "content": [
-                "From the perspective of the Third Reich, the invasion was framed entirely as a defensive necessity and a correction of the \"humiliating\" Treaty of Versailles. German propaganda relentlessly fabricated border incidents, most notably the Gleiwitz incident, where SS operatives dressed in Polish uniforms staged an attack on a German radio station to justify the invasion. Adolf Hitler, addressing the Reichstag on the morning of September 1, explicitly framed the war as a reactive measure: <em>\"For months we have been tormented by a problem... the Danzig and the Corridor problem... I am resolved to continue to fight until the Polish Government is ready to bring about conditions which will guarantee a secure frontier.\"</em> The astonishing speed of the victory\u2014achieved in merely five weeks\u2014vastly inflated the German High Command's confidence. It validated Hitler's strategic gambles and fostered a dangerous sense of invincibility within the Wehrmacht that would eventually lead to the overreach of Operation Barbarossa. For the Soviet Union, the campaign was cynically justified as a necessary move to protect ethnic Ukrainians and Belarusians living in eastern Poland, while practically securing a massive territorial buffer against future German aggression."
+                "From the perspective of the Third Reich, the invasion was framed entirely as a defensive necessity and a correction of the \"humiliating\" Treaty of Versailles. German propaganda relentlessly fabricated border incidents, most notably the Gleiwitz incident, where SS operatives dressed in Polish uniforms staged an attack on a German radio station to justify the invasion. Adolf Hitler, addressing the Reichstag on the morning of September 1, explicitly framed the war as a reactive measure: <em>\"For months we have been tormented by a problem... the Danzig and the Corridor problem... I am resolved to continue to fight until the Polish Government is ready to bring about conditions which will guarantee a secure frontier.\"</em> The astonishing speed of the victory—achieved in merely five weeks—vastly inflated the German High Command's confidence. It validated Hitler's strategic gambles and fostered a dangerous sense of invincibility within the Wehrmacht that would eventually lead to the overreach of Operation Barbarossa. For the Soviet Union, the campaign was cynically justified as a necessary move to protect ethnic Ukrainians and Belarusians living in eastern Poland, while practically securing a massive territorial buffer against future German aggression."
             ]
         },
         {
@@ -113,6 +113,11 @@
                     "type": "sources",
                     "items": [
                         {
+                            "title": "United States Holocaust Memorial Museum — Invasion of Poland",
+                            "url": "https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939",
+                            "desc": "Authoritative overview of the dual German–Soviet invasion, occupation policies, and the opening of the European war."
+                        },
+                        {
                             "title": "The National WWII Museum - Invasion of Poland",
                             "url": "https://www.nationalww2museum.org/war/articles/invasion-poland-september-1939",
                             "desc": "A comprehensive analysis of the diplomatic build-up, military tactics, and human cost of the 1939 campaign."
@@ -123,7 +128,7 @@
                             "desc": "An digital collection featuring photographs, audio logs, and historical summaries from the IWM archives."
                         },
                         {
-                            "title": "Museum of the Second World War in Gda\u0144sk",
+                            "title": "Museum of the Second World War in Gdańsk",
                             "url": "https://muzeum1939.pl/en",
                             "desc": "The official museum at Westerplatte containing primary source documents, operational maps, and diaries of the Polish defense."
                         }
@@ -131,5 +136,11 @@
                 }
             ]
         }
-    ]
+    ],
+    "allied_commanders_label": "Polish Commanders",
+    "axis_commanders_label": "German & Soviet Commanders",
+    "allied_forces_label": "Polish Forces",
+    "axis_forces_label": "German & Soviet Forces",
+    "allied_casualties_label": "Polish Casualties",
+    "axis_casualties_label": "German & Soviet Casualties"
 }

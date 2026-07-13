@@ -6,7 +6,7 @@ TEMPLATE = """<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A deep historical exploration of the {title} during World War II.">
+    <meta name="description" content="{meta_description}">
     <title>{title} - Echoes of Conflict</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -60,27 +60,27 @@ TEMPLATE = """<!DOCTYPE html>
                     <span class="stat-value">{outcome}</span>
                 </div>
                 <div class="stat-item">
-                    <span class="stat-label">Allied Commanders</span>
+                    <span class="stat-label">{allied_commanders_label}</span>
                     <span class="stat-value">{allied_commanders}</span>
                 </div>
                 <div class="stat-item">
-                    <span class="stat-label">Axis Commanders</span>
+                    <span class="stat-label">{axis_commanders_label}</span>
                     <span class="stat-value">{axis_commanders}</span>
                 </div>
                 <div class="stat-item">
-                    <span class="stat-label">Allied Forces</span>
+                    <span class="stat-label">{allied_forces_label}</span>
                     <span class="stat-value">{allied_forces}</span>
                 </div>
                 <div class="stat-item">
-                    <span class="stat-label">Axis Forces</span>
+                    <span class="stat-label">{axis_forces_label}</span>
                     <span class="stat-value">{axis_forces}</span>
                 </div>
                 <div class="stat-item">
-                    <span class="stat-label">Allied Casualties</span>
+                    <span class="stat-label">{allied_casualties_label}</span>
                     <span class="stat-value">{allied_casualties}</span>
                 </div>
                 <div class="stat-item">
-                    <span class="stat-label">Axis Casualties</span>
+                    <span class="stat-label">{axis_casualties_label}</span>
                     <span class="stat-value">{axis_casualties}</span>
                 </div>
             </div>
@@ -95,7 +95,7 @@ TEMPLATE = """<!DOCTYPE html>
     </div>
 
     <footer>
-        <p>A historical exploration project. Created by Arjun Divecha.</p>
+        <p>A historical exploration project by Arjun Divecha. Statistics are approximate; wartime figures often remain disputed among historians.</p>
     </footer>
 </body>
 </html>
@@ -149,7 +149,7 @@ def generate_chapters(chapters):
             {paragraphs_html}
         </section>
         ''')
-    return "\\n".join(html)
+    return "\n".join(html)
 
 def main():
     data_dir = "data"
@@ -214,20 +214,35 @@ def main():
             
         # Chapters HTML
         chapters_html = generate_chapters(data.get("chapters", []))
+
+        title = data.get("title", "")
+        date = data.get("date", "")
+        outcome = data.get("outcome", "")
+        meta_description = data.get(
+            "meta_description",
+            f"{title} ({date}): {outcome}"[:300]
+        )
         
-        # Render the template
+        # Render the template (labels default to Allied/Axis for Western-front pages)
         html_content = TEMPLATE.format(
-            title=data.get("title", ""),
-            date=data.get("date", ""),
+            title=title,
+            date=date,
             location=data.get("location", ""),
             result=data.get("result", ""),
-            outcome=data.get("outcome", ""),
+            outcome=outcome,
+            meta_description=meta_description.replace('"', "'"),
             allied_commanders=data.get("allied_commanders", ""),
             axis_commanders=data.get("axis_commanders", ""),
             allied_forces=data.get("allied_forces", ""),
             axis_forces=data.get("axis_forces", ""),
             allied_casualties=data.get("allied_casualties", ""),
             axis_casualties=data.get("axis_casualties", ""),
+            allied_commanders_label=data.get("allied_commanders_label", "Allied Commanders"),
+            axis_commanders_label=data.get("axis_commanders_label", "Axis Commanders"),
+            allied_forces_label=data.get("allied_forces_label", "Allied Forces"),
+            axis_forces_label=data.get("axis_forces_label", "Axis Forces"),
+            allied_casualties_label=data.get("allied_casualties_label", "Allied Casualties"),
+            axis_casualties_label=data.get("axis_casualties_label", "Axis Casualties"),
             image=data.get("image", ""),
             chapters_html=chapters_html,
             prev_button_html=prev_button_html,

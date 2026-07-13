@@ -1,5 +1,20 @@
 import os
 import json
+import sys
+
+"""
+LEGACY scaffold script.
+
+`data/*.json` is the source of truth for battle content after the 2026 content audit.
+Re-running this file overwrites those audited JSON files with older narrative drafts.
+
+Prefer editing `data/<battle>.json` and then running `python3 generate.py`.
+To force a full rewrite from this script:  python3 create_data_files.py --force
+"""
+
+if __name__ == "__main__" and "--force" not in sys.argv:
+    # Allow import/exec of the top when used as a library, but guard the write path below.
+    pass
 
 # Ensure data directory exists
 os.makedirs("data", exist_ok=True)
@@ -1334,6 +1349,14 @@ for bid, m_info in maps_info.items():
         ]
     }
     battle_data["chapters"].insert(-1, map_chapter)
+
+if "--force" not in sys.argv:
+    print(
+        "Refusing to overwrite audited data/*.json.\n"
+        "Edit data files directly, then run: python3 generate.py\n"
+        "To force rewrite from this legacy script: python3 create_data_files.py --force"
+    )
+    sys.exit(1)
 
 for bid, data in battles_map.items():
     with open(f"data/{bid}.json", "w", encoding="utf-8") as f:

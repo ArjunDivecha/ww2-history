@@ -5,11 +5,11 @@
     "result": "Decisive American victory",
     "outcome": "Permanent damage to the Imperial Japanese Navy; the strategic initiative in the Pacific shifts to the Allies.",
     "allied_commanders": "Chester W. Nimitz, Frank Jack Fletcher, Raymond A. Spruance",
-    "axis_commanders": "Isoroku Yamamoto, Nobutake Kond\u014d, Ch\u016bichi Nagumo, Tamon Yamaguchi",
+    "axis_commanders": "Isoroku Yamamoto, Nobutake Kondō, Chūichi Nagumo, Tamon Yamaguchi",
     "allied_forces": "US Navy: 3 aircraft carriers, 8 cruisers, 15 destroyers, 233 carrier aircraft, 127 land-based aircraft",
-    "axis_forces": "Imperial Japanese Navy: 4 fleet aircraft carriers, 2 battleships, 12 destroyers, 248 carrier aircraft",
-    "allied_casualties": "307 killed, 1 aircraft carrier (USS Yorktown) sunk, 1 destroyer sunk, 150 aircraft destroyed",
-    "axis_casualties": "3,057 killed, 4 fleet aircraft carriers sunk, 1 heavy cruiser sunk, 248 aircraft destroyed",
+    "axis_forces": "Imperial Japanese Navy striking force: 4 fleet carriers, 2 battleships, cruisers and destroyers in company, ~248 carrier aircraft (overall Operation MI forces were larger and widely dispersed)",
+    "allied_casualties": "307 killed; 1 aircraft carrier (USS Yorktown) and 1 destroyer (USS Hammann) sunk; ~150 aircraft lost",
+    "axis_casualties": "Approx. 3,000–3,057 killed; 4 fleet carriers and 1 heavy cruiser (Mikuma) sunk; ~248–250 aircraft destroyed",
     "image": "assets/images/battle_of_midway_1783712222034.png",
     "chapters": [
         {
@@ -23,7 +23,7 @@
             "title": "Military Doctrines & War Plans",
             "content": [
                 "The Japanese plan was highly complex, involving multiple divisions, including a diversionary attack on the Aleutian Islands. It relied on secrecy and the assumption that the US fleet would only react after the landings at Midway had begun. The carriers under Admiral Nagumo were to launch air strikes to neutralize Midway's defenses before the arrival of the invasion fleet.",
-                "The American plan was simple and direct. Nimitz concentrated his three available carriers\u2014USS Enterprise, USS Hornet, and the carrier USS Yorktown, which had been quickly repaired in Pearl Harbor after sustaining damage at the Battle of the Coral Sea\u2014northeast of Midway. The US forces waited in secret, using search planes to locate the Japanese fleet before they were detected."
+                "The American plan was simple and direct. Nimitz concentrated his three available carriers—USS Enterprise, USS Hornet, and the carrier USS Yorktown, which had been quickly repaired in Pearl Harbor after sustaining damage at the Battle of the Coral Sea—northeast of Midway. The US forces waited in secret, using search planes to locate the Japanese fleet before they were detected."
             ]
         },
         {
@@ -46,10 +46,10 @@
             ]
         },
         {
-            "title": "The Turning Point: The Five Fatal Minutes",
+            "title": "The Turning Point: The Morning Dive-Bomber Attack",
             "content": [
-                "The initial American air attacks were uncoordinated and met with disaster. Torpedo bomber squadrons from Hornet and Enterprise attacked without fighter escort, and were shot down by Zero fighters; out of 41 torpedo planes, only six returned. However, this sacrifice drew the Japanese Zero fighters down to sea level, leaving the skies above empty.",
-                "At 10:22 AM, three squadrons of Douglas SBD Dauntless dive-bombers from Enterprise and Yorktown arrived simultaneously at high altitude, completely undetected. They plunged through the clouds, striking the Japanese carriers Akagi, Kaga, and Soryu as their decks were packed with fueled and armed planes. Within five minutes, all three carriers were burning out of control, reduced to smoking wrecks."
+                "The initial American air attacks were uncoordinated and met with disaster. Torpedo bomber squadrons—many flying obsolete TBD Devastators without adequate fighter escort—were savaged by Zero fighters. Of 41 torpedo planes in the main carrier attacks, only a handful returned. Their sacrifice, however, pulled Japanese combat air patrol down to low altitude and disrupted flight-deck operations at a critical moment.",
+                "Around 10:20–10:30 AM, Douglas SBD Dauntless dive-bombers from <em>Enterprise</em> and <em>Yorktown</em> arrived at high altitude and struck the carriers <em>Akagi</em>, <em>Kaga</em>, and <em>Sōryū</em>. Within minutes, all three were mortally damaged and burning. Popular accounts call this the 'five fatal minutes' and sometimes claim Japanese decks were seconds from launching a full strike that would have destroyed the US carriers. Research by Jonathan Parshall and Anthony Tully in <em>Shattered Sword</em> shows that picture is oversimplified: Japanese rearming and spotting timelines do not support a near-simultaneous full-deck launch at the instant of the attack. The dive-bombers' arrival was still decisive—and still a product of intelligence, timing, and Japanese doctrinal rigidity—but it was not a simple five-minute near-miss of total Japanese victory."
             ]
         },
         {
@@ -84,7 +84,7 @@
             "title": "Historical Legacy & Long-term Impact",
             "content": [
                 "Midway is celebrated as one of the most decisive naval victories in military history. It demonstrated that codebreaking, information superiority, and carrier aviation had replaced the battleship as the decisive factors in naval warfare.",
-                "The battle also highlights the role of chance in war\u2014the timing of the dive-bombers' arrival, just as the Japanese fighters were at low altitude, remains a classic example of how a few minutes can decide the fate of nations."
+                "The battle also illustrates the role of contingency in war—the convergence of American dive-bombers while Japanese fighters were low and flight decks congested remains a classic study in timing—but modern scholarship cautions against reducing Midway to pure luck or a mythical five-minute window. Codebreaking, operational intelligence, Yorktown's rapid repair, and Japanese plan complexity all structured the outcome before the first bomb fell."
             ]
         },
         {
@@ -113,23 +113,29 @@
                     "type": "sources",
                     "items": [
                         {
-                            "title": "The National WWII Museum - Battle of Midway",
+                            "title": "National WWII Museum — Battle of Midway",
                             "url": "https://www.nationalww2museum.org/war/articles/battle-midway",
-                            "desc": "An analysis of the intelligence victory and carrier combat that turned the tide in the Pacific."
+                            "desc": "Accessible overview of the intelligence war, carrier battle, and strategic consequences."
                         },
                         {
-                            "title": "Encyclopedia Britannica - Battle of Midway",
-                            "url": "https://www.britannica.com/event/Battle-of-Midway",
-                            "desc": "A detailed historical overview of the carrier operations and strategic outcomes of Midway."
+                            "title": "National WWII Museum — Road to Tokyo exhibit",
+                            "url": "https://www.nationalww2museum.org/visit/exhibits/road-tokyo",
+                            "desc": "Museum exhibit pathway covering the Pacific campaign from Pearl Harbor through the road to Japan."
                         },
                         {
-                            "title": "The Joseph Rochefort Papers - Station HYPO Archives",
+                            "title": "Library of Congress — World War II maps and documents",
                             "url": "https://www.loc.gov/",
-                            "desc": "Personal diaries, notes, and code sheets detailing the decryption of the JN-25 code in 1942."
+                            "desc": "Primary maps, photographs, and documentary collections for further research."
                         }
                     ]
                 }
             ]
         }
-    ]
+    ],
+    "allied_commanders_label": "American Commanders",
+    "axis_commanders_label": "Japanese Commanders",
+    "allied_forces_label": "US Forces",
+    "axis_forces_label": "Japanese Forces (Kido Butai / MI)",
+    "allied_casualties_label": "American Casualties",
+    "axis_casualties_label": "Japanese Casualties"
 }

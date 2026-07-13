@@ -1,15 +1,15 @@
 {
     "title": "Battle of Iwo Jima",
     "date": "February 19 - March 26, 1945",
-    "location": "Iwo Jima, Volcano Islands, Tokyo, Japan",
+    "location": "Iwo Jima, Volcano Islands (under Tokyo Prefecture), Japan",
     "result": "Decisive American victory",
-    "outcome": "Capture of Iwo Jima's airfields; the high human cost heavily influences the decision to use the atomic bomb.",
+    "outcome": "Capture of Iwo Jima's airfields for emergency B-29 landings and fighter escort basing; extreme US casualties fed later debates over invasion costs—and, alongside Okinawa, shaped planning for the war's end—without alone deciding the atomic bombings.",
     "allied_commanders": "Chester W. Nimitz, Holland Smith, Marc Mitscher, Harry Schmidt",
     "axis_commanders": "Tadamichi Kuribayashi, Baron Takeichi Nishi",
     "allied_forces": "US Marine Corps and Navy: Approx. 74,000 Marines, 110,000 total personnel, 500 ships",
     "axis_forces": "Imperial Japanese Army and Navy: Approx. 21,000 garrison troops",
-    "allied_casualties": "26,048 total casualties (6,821 killed, 19,189 wounded, 494 missing)",
-    "axis_casualties": "Approx. 18,840 killed, only 216 captured (during the battle)",
+    "allied_casualties": "Approx. 26,000 casualties (6,821 killed, ~19,200 wounded)—unique among major Pacific amphibious battles for US casualties exceeding Japanese",
+    "axis_casualties": "Approx. 18,000–20,000 killed of ~21,000 garrison; only about 216 captured during the battle",
     "image": "assets/images/battle_of_iwo_jima_1783712261591.png",
     "chapters": [
         {
@@ -76,8 +76,8 @@
         {
             "title": "The Aftermath & Strategic Consequences",
             "content": [
-                "The capture of Iwo Jima cost the United States over 6,800 lives, while nearly the entire Japanese garrison of 21,000 men was killed. The airfields were quickly repaired, and by the end of the war, over 2,200 B-29 bombers had made emergency landings on the island, saving the lives of an estimated 27,000 crewmen.",
-                "However, the high human cost of capturing a tiny volcanic island shocked the American public and military planning. It served as a warning of what to expect during the planned invasion of the Japanese home islands, directly influencing President Harry Truman's decision to utilize the atomic bomb to force a surrender without an invasion."
+                "The capture of Iwo Jima cost the United States over 6,800 dead, while nearly the entire Japanese garrison of about 21,000 was killed. The airfields were repaired for use as emergency landing strips and later for fighter escorts. By war's end, more than 2,200 B-29s had made emergency landings on the island—a figure often cited as saving thousands of aircrew—though historians continue to debate the overall cost-benefit of the operation relative to alternative uses of those Marine divisions.",
+                "The high human cost of taking a small volcanic island shocked the American public and military planners. Together with the later bloodbath on Okinawa, Iwo Jima strengthened estimates of how costly an invasion of Japan's home islands (Operations Olympic and Coronet) might be. Those casualty expectations were one factor in end-of-war decision-making—but the atomic bombings also reflected the readiness of the Manhattan Project, the Interim Committee's recommendations, the Soviet entry into the war against Japan, blockade and firebombing strategy, and Japanese political deadlock. It is more accurate to say Iwo Jima contributed to invasion-cost calculations than to claim it alone 'caused' the use of nuclear weapons."
             ]
         },
         {
@@ -90,7 +90,7 @@
         {
             "title": "The Axis Perspective",
             "content": [
-                "The defense of Iwo Jima was a masterful, if doomed, execution of a strategy of attrition. General Kuribayashi recognized that defeating the overwhelming American amphibious and naval firepower was impossible. His sole objective was to inflict such horrific, unacceptable casualties on the US Marines that it would break the political will of the American public to launch a mainland invasion of Japan. He explicitly forbade suicidal banzai charges, ordering his men to remain in their fortified positions and kill at least ten Americans before dying themselves. The Japanese soldiers, enduring unimaginable conditions underground with no hope of reinforcement or survival, fought with a terrifying discipline. In his final, poignant dispatch to Tokyo before his presumed death in the final days of the battle, Kuribayashi maintained his martial dignity while acknowledging the end: <em>\"The situation is becoming very grave... We are sorry we have not been able to defend the island successfully. Now I, Kuribayashi, will lead a final charge.\"</em> His strategy succeeded in inflicting massive casualties, but failed to break the American resolve, instead pushing them toward a nuclear conclusion."
+                "The defense of Iwo Jima was a masterful, if doomed, execution of a strategy of attrition. General Kuribayashi recognized that defeating the overwhelming American amphibious and naval firepower was impossible. His sole objective was to inflict such horrific, unacceptable casualties on the US Marines that it would break the political will of the American public to launch a mainland invasion of Japan. He explicitly forbade suicidal banzai charges, ordering his men to remain in their fortified positions and kill at least ten Americans before dying themselves. The Japanese soldiers, enduring unimaginable conditions underground with no hope of reinforcement or survival, fought with a terrifying discipline. In his final, poignant dispatch to Tokyo before his presumed death in the final days of the battle, Kuribayashi maintained his martial dignity while acknowledging the end: <em>\"The situation is becoming very grave... We are sorry we have not been able to defend the island successfully. Now I, Kuribayashi, will lead a final charge.\"</em> His strategy succeeded in inflicting massive casualties, but failed to break the American resolve, while US leaders drew grim lessons about the cost of invading fortified Japanese territory."
             ]
         },
         {
@@ -101,7 +101,7 @@
                     "type": "map",
                     "url": "../assets/images/maps/map_iwo_jima.png",
                     "alt": "Battle of Iwo Jima Tactical Map",
-                    "caption": "Battle of Iwo Jima, February\u2013March 1945: Mapping the designated US Marine landing beaches, Mount Suribachi, and General Kuribayashi's fortified cave systems."
+                    "caption": "Battle of Iwo Jima, February–March 1945: Mapping the designated US Marine landing beaches, Mount Suribachi, and General Kuribayashi's fortified cave systems."
                 }
             ]
         },
@@ -131,5 +131,11 @@
                 }
             ]
         }
-    ]
+    ],
+    "allied_commanders_label": "American Commanders",
+    "axis_commanders_label": "Japanese Commanders",
+    "allied_forces_label": "US Forces",
+    "axis_forces_label": "Japanese Garrison",
+    "allied_casualties_label": "American Casualties",
+    "axis_casualties_label": "Japanese Casualties"
 }

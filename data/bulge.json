@@ -1,22 +1,22 @@
 {
     "title": "Battle of the Bulge",
-    "date": "December 16, 1944 - January 25, 1945",
+    "date": "December 16, 1944 – January 25, 1945",
     "location": "Ardennes region, Belgium, Luxembourg, Germany",
     "result": "Decisive Allied victory",
-    "outcome": "Exhaustion of Germany's last operational reserves; the path into Germany is left virtually undefended.",
+    "outcome": "Failure of Germany's last major Western offensive; irreplaceable losses in men, armor, and fuel left the Reich far weaker against the final Allied advances of 1945.",
     "allied_commanders": "Dwight D. Eisenhower, Omar Bradley, George S. Patton, Bernard Montgomery",
     "axis_commanders": "Adolf Hitler, Gerd von Rundstedt, Walter Model, Hasso von Manteuffel, Sepp Dietrich",
-    "allied_forces": "Approx. 83,000 troops (at start), rising to over 800,000 total troops, 1,300 tanks",
-    "axis_forces": "Approx. 200,000 troops (at start), rising to 450,000 total troops, 970 tanks, 1,600 aircraft",
-    "allied_casualties": "Approx. 90,000 casualties (89,500 Americans, including 19,000 killed)",
-    "axis_casualties": "Estimated 80,000 to 100,000 casualties (killed, wounded, or captured)",
+    "allied_forces": "Approx. 83,000 US troops in the path of the initial assault, rising to roughly 600,000–700,000 Allied troops committed over the battle (predominantly American)",
+    "axis_forces": "Approx. 200,000 troops in the initial assault, with ~400,000–500,000 German troops committed over the course of the offensive; ~1,000 armored fighting vehicles at the start (figures vary by source)",
+    "allied_casualties": "Approx. 80,000–90,000 Allied casualties (about 19,000 Americans killed; British losses ~1,400)",
+    "axis_casualties": "Estimated ~80,000–100,000+ German casualties (killed, wounded, or captured); ranges in scholarship extend somewhat higher or lower",
     "image": "assets/images/battle_of_bulge_1783712254116.png",
     "chapters": [
         {
             "title": "Strategic Context & The Final Gamble",
             "content": [
                 "By the autumn of 1944, Nazi Germany was facing military collapse. Allied armies were closing in from the west, while the Soviet Red Army was preparing a massive winter offensive in the east. Adolf Hitler, refusing to accept defeat, conceived a surprise counteroffensive in the West, codenamed Unternehmen Wacht am Rhein (Operation Watch on the Rhine).",
-                "Hitler's plan was to launch a surprise attack through the Ardennes region\u2014the same forested sector used in the 1940 invasion of France\u2014cross the Meuse River, and capture the Allied supply port of Antwerp. Hitler believed this bold stroke would split the American and British armies, shatter the Allied coalition, and force the Western Allies to sign a separate peace, allowing Germany to focus its remaining resources on the Soviet Union."
+                "Hitler's plan was to launch a surprise attack through the Ardennes region—the same forested sector used in the 1940 invasion of France—cross the Meuse River, and capture the Allied supply port of Antwerp. Hitler believed this bold stroke would split the American and British armies, shatter the Allied coalition, and force the Western Allies to sign a separate peace, allowing Germany to focus its remaining resources on the Soviet Union."
             ]
         },
         {
@@ -49,7 +49,8 @@
             "title": "The Siege of Bastogne",
             "content": [
                 "The battle centered on the town of Bastogne, a vital crossroads where seven main roads in the Ardennes met. The Germans needed to capture the town to keep their supply lines moving. Eisenhower ordered the 101st Airborne Division, commanded by General Anthony McAuliffe, to hold Bastogne at all costs.",
-                "By December 21, the Germans had completely surrounded Bastogne, trapping the paratroopers. Lacking winter clothing, medical supplies, and ammunition, the defenders held out in freezing temperatures. On December 22, the German commander sent a formal demand for surrender. McAuliffe issued his famous one-word reply: 'Nuts!' which boosted the morale of the defenders and the Allied public."
+                "By December 21, the Germans had completely surrounded Bastogne, trapping the paratroopers. Lacking winter clothing, medical supplies, and ammunition, the defenders held out in freezing temperatures. On December 22, the German commander sent a formal demand for surrender. McAuliffe issued his famous one-word reply: 'Nuts!' which boosted the morale of the defenders and the Allied public.",
+                "Bastogne was not the only critical American stand. At St. Vith, US troops delayed the German timetable for days before withdrawing under orders—buying time that proved as operationally important as the more famous siege of Bastogne."
             ]
         },
         {
@@ -63,7 +64,7 @@
             "title": "Pivot Points & Allied Decisions",
             "content": [
                 "The most critical decision was the stand at Elsenborn Ridge and St. Vith, which delayed the German advance and prevented them from securing key roads. This delay allowed the Allies to bring in reinforcements, including the 82nd and 101st Airborne Divisions, and deploy them at critical choke points.",
-                "Another factor was the failure of Otto Skorzeny's Operation Greif\u2014a covert mission where German commandos dressed in American uniforms tried to capture bridges and sow confusion behind Allied lines. Although they caused initial panic, the Americans quickly established checkpoints, using trivia questions (like naming baseball players) to identify the infiltrators."
+                "Another factor was the failure of Otto Skorzeny's Operation Greif—a covert mission where German commandos dressed in American uniforms tried to capture bridges and sow confusion behind Allied lines. Although they caused initial panic, the Americans quickly established checkpoints, using trivia questions (like naming baseball players) to identify the infiltrators."
             ]
         },
         {
@@ -76,7 +77,7 @@
         {
             "title": "The Aftermath & Strategic Consequences",
             "content": [
-                "By late January 1945, the Allies had restored the original line, ending the battle. The Battle of the Bulge was the bloodiest single engagement fought by the US Army in the war, resulting in nearly 90,000 American casualties.",
+                "By late January 1945, the Allies had largely restored the front line, ending the battle (US Army histories commonly close the campaign on 25 January; some accounts extend a few days further). The Battle of the Bulge was the largest and bloodiest battle fought by the US Army in the European theater, producing on the order of 80,000–90,000 American casualties.",
                 "However, the German offensive failed completely. Hitler had exhausted his last operational reserves of manpower, armor, and fuel in a gamble that achieved nothing. By throwing away his best remaining divisions in the West, he left the path into the German industrial heartland undefended, significantly accelerating the end of the war."
             ]
         },

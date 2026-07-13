@@ -2,14 +2,14 @@
     "title": "Attack on Pearl Harbor",
     "date": "December 7, 1941",
     "location": "Pearl Harbor, Hawaii, US",
-    "result": "Major Japanese tactical victory",
-    "outcome": "United States formal entry into World War II; declarations of war by Germany and Italy on the US.",
-    "allied_commanders": "Husband E. Kimmel, Walter C. Short, Franklin D. Roosevelt",
-    "axis_commanders": "Isoroku Yamamoto, Ch\u016bichi Nagumo, Mitsuo Fuchida",
+    "result": "Japanese tactical victory; strategic US mobilization",
+    "outcome": "United States enters World War II; Germany and Italy declare war on the US (11 December); Pacific Fleet battleships crippled but carriers, fuel, and repair yards largely survive.",
+    "allied_commanders": "Husband E. Kimmel, Walter C. Short (theater commanders); Franklin D. Roosevelt (Commander-in-Chief)",
+    "axis_commanders": "Isoroku Yamamoto, Chūichi Nagumo, Mitsuo Fuchida",
     "allied_forces": "US Pacific Fleet: 8 battleships, 8 cruisers, 30 destroyers, 4 submarines, 390 aircraft",
     "axis_forces": "Imperial Japanese Navy: 6 aircraft carriers, 2 battleships, 3 cruisers, 9 destroyers, 353 aircraft",
-    "allied_casualties": "2,403 killed, 1,178 wounded, 4 battleships sunk, 4 battleships damaged, 188 aircraft destroyed",
-    "axis_casualties": "64 killed, 29 aircraft destroyed, 5 midget submarines sunk, 1 captured",
+    "allied_casualties": "2,403 killed, 1,178 wounded; 4 battleships sunk (Arizona, Oklahoma; California and West Virginia sunk at berth and later raised), 4 battleships damaged; 188 aircraft destroyed",
+    "axis_casualties": "Approx. 129–130 personnel killed (including aircrew and midget-submarine crews); 29 aircraft destroyed; 5 midget submarines lost",
     "image": "assets/images/pearl_harbor_1783712216007.png",
     "chapters": [
         {
@@ -22,7 +22,7 @@
         {
             "title": "Military Doctrines & War Plans",
             "content": [
-                "The Japanese plan relied on total surprise and the concentration of carrier-based aviation. Six fleet carriers (the Kido Butai) under Vice Admiral Ch\u016bichi Nagumo were to sail in secret across the North Pacific, maintaining strict radio silence. The air crews had trained for months, developing specialized shallow-water torpedoes equipped with wooden fins to prevent them from sinking into the mud of Pearl Harbor.",
+                "The Japanese plan relied on total surprise and the concentration of carrier-based aviation. Six fleet carriers (the Kido Butai) under Vice Admiral Chūichi Nagumo were to sail in secret across the North Pacific, maintaining strict radio silence. The air crews had trained for months, developing specialized shallow-water torpedoes equipped with wooden fins to prevent them from sinking into the mud of Pearl Harbor.",
                 "The US military, conversely, was unprepared for an air attack. Intelligence believed that any Japanese strike would target the Philippines or Malaya. General Walter Short, commander of army defenses in Hawaii, feared sabotage and ordered all aircraft to be parked wingtip-to-wingtip on the runways to make them easier to guard, which unintentionally made them perfect targets for bombers."
             ]
         },
@@ -53,10 +53,10 @@
             ]
         },
         {
-            "title": "The Strategic Decision: No Third Wave",
+            "title": "After the Two Waves: Fuel, Yards, and a Disputed Counterfactual",
             "content": [
-                "By 10:00 AM, the Japanese aircraft returned to their carriers. Nagumo decided not to launch a third wave, despite recommendations from junior officers. He feared American land-based bombers and did not know the locations of the US aircraft carriers, which were out of port on maneuvers.",
-                "This decision had major strategic consequences. The attack failed to destroy the base's massive oil storage tanks, repair shops, submarine pens, and dry docks. Had these facilities been destroyed, the US Navy would have been forced to withdraw its Pacific operations to San Diego, delaying their counteroffensive by years."
+                "By about 10:00 AM, the second wave was withdrawing and Japanese aircraft were recovering aboard the carriers of the <em>Kido Butai</em>. Vice Admiral Chūichi Nagumo then retired westward rather than mounting further strikes. The original operational plan called for two attack waves; it did not schedule a formal third wave against fuel farms, repair yards, or dry docks.",
+                "Later popular accounts—especially those associated with Mitsuo Fuchida—claim junior officers urgently demanded a third strike on oil tanks and repair facilities and that Nagumo refused after a heated argument. Modern naval historians (including work associated with Jonathan Parshall and others) treat that dramatic bridge confrontation as unreliable: contemporary evidence is thin, Minoru Genda disputed key elements of Fuchida's later storytelling, and logistics, fuel, aircraft losses, and unknown US carrier locations already argued for withdrawal. What is not in dispute is the counterfactual importance of the targets left intact: surviving fuel storage, machine shops, submarine facilities, and dry docks allowed Pearl Harbor to remain a functioning forward base rather than forcing a prolonged US withdrawal to the West Coast."
             ]
         },
         {
@@ -113,23 +113,29 @@
                     "type": "sources",
                     "items": [
                         {
-                            "title": "Library of Congress - World War II Documents",
-                            "url": "https://www.loc.gov/collections/world-war-ii-original-documents/about-this-collection/",
-                            "desc": "Primary source collection featuring Roosevelt's Infamy draft speech, radio transcripts, and naval logs."
-                        },
-                        {
-                            "title": "History Channel - Attack on Pearl Harbor",
-                            "url": "https://www.history.com/topics/world-war-ii/pearl-harbor",
-                            "desc": "A multi-media portal containing documentary footage, interactive maps, and historical articles."
-                        },
-                        {
-                            "title": "USS Arizona Memorial Official Site",
+                            "title": "National Park Service — WWII Valor in the Pacific (Pearl Harbor)",
                             "url": "https://www.nps.gov/valr/index.htm",
-                            "desc": "National Park Service page documenting the casualties, preservation efforts, and history of the USS Arizona."
+                            "desc": "Official site for the Pearl Harbor National Memorial, USS Arizona Memorial, and interpretive materials."
+                        },
+                        {
+                            "title": "National WWII Museum — Remembering Pearl Harbor",
+                            "url": "https://www.nationalww2museum.org/war/articles/remembering-pearl-harbor",
+                            "desc": "Museum overview of the attack, US casualties, and the road to American entry into the war."
+                        },
+                        {
+                            "title": "Library of Congress — World War II documents",
+                            "url": "https://www.loc.gov/collections/world-war-ii-original-documents/about-this-collection/",
+                            "desc": "Primary documents and collections related to the US entry into World War II."
                         }
                     ]
                 }
             ]
         }
-    ]
+    ],
+    "allied_commanders_label": "American Commanders",
+    "axis_commanders_label": "Japanese Commanders",
+    "allied_forces_label": "US Pacific Fleet",
+    "axis_forces_label": "Imperial Japanese Navy Strike Force",
+    "allied_casualties_label": "American Casualties",
+    "axis_casualties_label": "Japanese Casualties"
 }

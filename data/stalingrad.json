@@ -1,21 +1,21 @@
 {
     "title": "Battle of Stalingrad",
-    "date": "August 23, 1942 - February 2, 1943",
+    "date": "July 17, 1942 – February 2, 1943 (city fighting intensifies from August 23, 1942)",
     "location": "Stalingrad, Soviet Union",
     "result": "Decisive Soviet victory",
-    "outcome": "Destruction of the German 6th Army; Germany's offensive capability on the Eastern Front is broken.",
+    "outcome": "Destruction of the German 6th Army and heavy Axis satellite losses; permanent loss of German strategic initiative on the Eastern Front.",
     "allied_commanders": "Vasily Chuikov, Georgy Zhukov, Aleksandr Vasilevsky, Konstantin Rokossovsky",
-    "axis_commanders": "Friedrich Paulus, Erich von Manstein, Hermann Hoth",
+    "axis_commanders": "Friedrich Paulus, Erich von Manstein, Hermann Hoth (plus Romanian, Italian, and Hungarian army commands on the flanks)",
     "allied_forces": "Soviet Union: Over 1.1 million front-line soldiers, 894 tanks, 1,115 aircraft (at start of offensive)",
     "axis_forces": "Axis: Approx. 1 million soldiers (including Romanian, Italian, and Hungarian divisions), 675 tanks, 1,210 aircraft",
-    "allied_casualties": "478,741 killed/missing, 650,878 wounded; over 40,000 civilians killed",
-    "axis_casualties": "Approx. 800,000 killed, wounded, or captured (including 110,000 Germans captured, of whom only 6,000 survived)",
+    "allied_casualties": "Often cited ~478,000 killed/missing and ~650,000 wounded for major phases; total Soviet losses for the wider Stalingrad campaign frequently exceed 1.1 million depending on definition",
+    "axis_casualties": "Approx. 800,000–1,500,000 killed, wounded, or captured across the wider campaign; ~91,000 Axis troops surrendered in the final pocket (only ~5,000–6,000 Germans returned from captivity after the war)",
     "image": "assets/images/battle_of_stalingrad_1783712239181.png",
     "chapters": [
         {
             "title": "Strategic Context & The Drive to the Volga",
             "content": [
-                "By the spring of 1942, the German Wehrmacht had recovered from its defeat at Moscow. Recognizing that Germany lacked the resources to launch a general offensive along the entire Eastern Front, Hitler approved Fall Blau (Case Blue)\u2014a campaign directed into southern Russia. The goal was to capture the oil fields of Maikop, Grozny, and Baku in the Caucasus, which would fuel the German war machine and starve the Soviet military of fuel.",
+                "By the spring of 1942, the German Wehrmacht had recovered from its defeat at Moscow. Recognizing that Germany lacked the resources to launch a general offensive along the entire Eastern Front, Hitler approved Fall Blau (Case Blue)—a campaign directed into southern Russia. The goal was to capture the oil fields of Maikop, Grozny, and Baku in the Caucasus, which would fuel the German war machine and starve the Soviet military of fuel. Soviet official histories often date the Stalingrad strategic defensive from mid-July 1942; the apocalyptic battle for the city itself is usually marked from the great Luftwaffe raid and German advance to the Volga on 23 August.",
                 "To protect the left flank of the advance, German Army Group B was ordered to advance to the Volga River and capture or destroy the industrial city of Stalingrad. The city was a major transport hub and bore the name of Joseph Stalin, making it an ideological prize for Hitler. As the German 6th Army under General Friedrich Paulus advanced, Hitler split his forces, ordering both the Caucasus oil drive and the capture of Stalingrad to occur simultaneously, stretching his logistics to the limit."
             ]
         },
@@ -23,7 +23,7 @@
             "title": "Military Doctrines & War Plans",
             "content": [
                 "The German doctrine of mobile warfare was suited for the open Russian steppe, where Panzers could envelop and destroy enemy forces. However, once the 6th Army entered the ruins of Stalingrad, this mobility was neutralized. The Germans were forced into close-quarters combat, where their tactical superiority in coordination and communications was less effective.",
-                "The Soviet plan, developed by General Vasily Chuikov, commander of the 62nd Army, relied on attrition. Chuikov ordered his troops to 'hug the enemy'\u2014to keep their front lines within hand-grenade distance of the Germans. This prevented the Luftwaffe and German artillery from bombing Soviet positions for fear of hitting their own men, forcing the Germans to fight for every building, room, and sewer."
+                "The Soviet plan, developed by General Vasily Chuikov, commander of the 62nd Army, relied on attrition. Chuikov ordered his troops to 'hug the enemy'—to keep their front lines within hand-grenade distance of the Germans. This prevented the Luftwaffe and German artillery from bombing Soviet positions for fear of hitting their own men, forcing the Germans to fight for every building, room, and sewer."
             ]
         },
         {
@@ -49,20 +49,20 @@
             "title": "The Rat War (Rattenkrieg)",
             "content": [
                 "The combat inside the ruined city was brutal, described by German soldiers as Rattenkrieg (Rat War). The battle was fought in three dimensions: in sewers, cellars, ruins, and attics. Snipers, most notably Vasily Zaytsev, who killed over 220 German soldiers during the battle, became national heroes, while their stories were used by Soviet propaganda to boost morale.",
-                "Buildings like 'Pavlov's House'\u2014a four-story apartment building fortified by Sergeant Yakov Pavlov\u2014became famous. Pavlov's small squad defended the building for 58 days against repeated German attacks, using machine guns, anti-tank rifles, and mines, and proving that a small, determined force could hold out in the ruins."
+                "Buildings like 'Pavlov's House'—a four-story apartment building fortified by Sergeant Yakov Pavlov—became famous. Pavlov's small squad defended the building for 58 days against repeated German attacks, using machine guns, anti-tank rifles, and mines, and proving that a small, determined force could hold out in the ruins."
             ]
         },
         {
             "title": "The Soviet Encirclement: Operation Uranus",
             "content": [
                 "While the German 6th Army was focused on capturing the last pockets of Soviet resistance along the Volga, the Soviet High Command (Stavka), led by Zhukov and Vasilevsky, secretly massed over a million men on the northern and southern flanks of the city. These flanks were guarded by Romanian, Italian, and Hungarian armies, which lacked heavy anti-tank weapons.",
-                "On November 19, 1942, the Soviets launched Operation Uranus. The Red Army smashed through the Romanian defenses, and within four days, the two pincer arms met at Kalach-na-Donu, encircling the German 6th Army, along with parts of the 4th Panzer Army and Romanian units, trapping over 250,000 Axis troops inside the city."
+                "On November 19, 1942, the Soviets launched Operation Uranus. The Red Army smashed through the Romanian defenses, and within four days, the two pincer arms met at Kalach-na-Donu, encircling the German 6th Army, along with parts of the 4th Panzer Army and Romanian units, trapping roughly a quarter-million Axis troops in and around the city (the final pocket would shrink through attrition before the January–February surrenders)."
             ]
         },
         {
             "title": "The Siege & The Failed Relief Campaign",
             "content": [
-                "General Paulus requested permission to break out of the encirclement, but Hitler refused, ordering the 6th Army to hold its positions. Reichsmarschall Hermann G\u00f6ring assured Hitler that the Luftwaffe could supply the trapped army by air, claiming they could deliver 300 tons of supplies daily. In reality, the Luftwaffe lacked the transport aircraft, and Soviet fighters and anti-aircraft fire decimated their formations, averaging less than 90 tons of supplies a day.",
+                "General Paulus requested permission to break out of the encirclement, but Hitler refused, ordering the 6th Army to hold its positions. Reichsmarschall Hermann Göring assured Hitler that the Luftwaffe could supply the trapped army by air, claiming they could deliver 300 tons of supplies daily. In reality, the Luftwaffe lacked the transport aircraft, and Soviet fighters and anti-aircraft fire decimated their formations, averaging less than 90 tons of supplies a day.",
                 "In December, Field Marshal Erich von Manstein launched Operation Winter Storm, an armored relief attempt to break the Soviet ring. However, they were halted 30 miles from the pocket. Hitler refused to allow Paulus to launch a coordinated breakout to meet Manstein's forces, condemning the 6th Army to starvation and freezing temperatures."
             ]
         },
@@ -70,7 +70,7 @@
             "title": "Surrender and Tragedy",
             "content": [
                 "By January 1943, the trapped German soldiers were starving, freezing, and running out of ammunition. The Soviets launched Operation Ring, systematically crushing the pocket. On January 30, Hitler promoted Paulus to Field Marshal, noting that no German field marshal had ever surrendered, implying Paulus should commit suicide.",
-                "Paulus refused, and on January 31, 1943, he surrendered his headquarters. The remaining Axis forces in the northern pocket capitulated on February 2. Over 91,000 Axis soldiers were captured, including 24 generals. Placed in Soviet labor camps, most died of typhus, malnutrition, and exposure; only 6,000 survived to return to Germany after the war."
+                "Paulus refused suicide, and on January 31, 1943, he surrendered his headquarters in the southern pocket. Remaining Axis forces in the northern pocket capitulated on February 2. Approximately 91,000 Axis soldiers went into captivity at the end of the battle, including 24 generals. Most of the German prisoners died of typhus, malnutrition, and exposure in Soviet camps; only about 5,000–6,000 lived to return to Germany years after the war."
             ]
         },
         {
@@ -90,7 +90,7 @@
         {
             "title": "The Axis Perspective",
             "content": [
-                "From the German perspective, Stalingrad was a descent into an icy hell, driven by the megalomania of the <em>F\u00fchrer</em>. When the 6th Army was encircled, General Paulus repeatedly requested permission to orchestrate a breakout while they still had the strength. Hitler, misled by Hermann G\u00f6ring's absurd promise that the <em>Luftwaffe</em> could supply the encircled army entirely by air, furiously denied the request, ordering the 6th Army to stand fast and fight to the last man. The airlift was a dismal failure, and the soldiers in the pocket (the <em>Kessel</em>) were abandoned to starvation, freezing temperatures, and typhus. The despair of the common soldier was absolute. The diary of William Hoffman, a German soldier who perished in the pocket, documented the transition from arrogant confidence to utter hopelessness: in August he wrote of a quick victory, but by December, he penned, <em>\"We are completely isolated... We have eaten the last horses. I am ready for anything, but I cannot believe that we have been abandoned by the F\u00fchrer.\"</em> When Paulus finally surrendered\u2014shortly after Hitler cynically promoted him to Field Marshal, implying he should commit suicide rather than capitulate\u2014it plunged the German home front into a period of profound mourning and silent realization that the war was lost. Goebbels was forced to declare \"Total War\" in response to the national shock."
+                "From the German perspective, Stalingrad was a descent into an icy hell, driven by the megalomania of the <em>Führer</em>. When the 6th Army was encircled, General Paulus repeatedly requested permission to orchestrate a breakout while they still had the strength. Hitler, misled by Hermann Göring's absurd promise that the <em>Luftwaffe</em> could supply the encircled army entirely by air, furiously denied the request, ordering the 6th Army to stand fast and fight to the last man. The airlift was a dismal failure, and the soldiers in the pocket (the <em>Kessel</em>) were abandoned to starvation, freezing temperatures, and typhus. The despair of the common soldier was absolute. The diary of William Hoffman, a German soldier who perished in the pocket, documented the transition from arrogant confidence to utter hopelessness: in August he wrote of a quick victory, but by December, he penned, <em>\"We are completely isolated... We have eaten the last horses. I am ready for anything, but I cannot believe that we have been abandoned by the Führer.\"</em> When Paulus finally surrendered—shortly after Hitler cynically promoted him to Field Marshal, implying he should commit suicide rather than capitulate—it plunged the German home front into a period of profound mourning and silent realization that the war was lost. Goebbels was forced to declare \"Total War\" in response to the national shock."
             ]
         },
         {
@@ -113,23 +113,29 @@
                     "type": "sources",
                     "items": [
                         {
-                            "title": "History Channel - Battle of Stalingrad Summary",
-                            "url": "https://www.history.com/topics/world-war-ii/battle-of-stalingrad",
-                            "desc": "A comprehensive summary of the battle, featuring documentary videos, photo collections, and timelines."
-                        },
-                        {
-                            "title": "Imperial War Museums - What to Know About the Battle of Stalingrad",
+                            "title": "Imperial War Museums — What You Need to Know About the Battle of Stalingrad",
                             "url": "https://www.iwm.org.uk/history/what-you-need-to-know-about-the-battle-of-stalingrad",
-                            "desc": "An archival display exploring why Stalingrad was the strategic turning point of the European conflict."
+                            "desc": "Concise IWM overview of the campaign, urban fighting, and strategic turning point."
                         },
                         {
-                            "title": "The Volgograd State Panoramic Museum of Stalingrad",
+                            "title": "National WWII Museum — Stalingrad and the Eastern Front",
+                            "url": "https://www.nationalww2museum.org/war/topics/eastern-front",
+                            "desc": "Museum articles and context on the Eastern Front and the 1942–43 turning of the war."
+                        },
+                        {
+                            "title": "Volgograd State Panoramic Museum of the Battle of Stalingrad",
                             "url": "https://stalingrad-battle.ru/",
-                            "desc": "The official museum repository containing original weapons, letters, diaries, and maps from the battle."
+                            "desc": "Russian museum site for the battle, memorial landscape, and local collections in modern Volgograd."
                         }
                     ]
                 }
             ]
         }
-    ]
+    ],
+    "allied_commanders_label": "Soviet Commanders",
+    "axis_commanders_label": "Axis Commanders",
+    "allied_forces_label": "Soviet Forces",
+    "axis_forces_label": "Axis Forces",
+    "allied_casualties_label": "Soviet Casualties",
+    "axis_casualties_label": "Axis Casualties"
 }
