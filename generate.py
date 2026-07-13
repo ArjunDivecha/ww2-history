@@ -94,8 +94,27 @@ TEMPLATE = """<!DOCTYPE html>
         </nav>
     </div>
 
+    <section class="methodology-note container">
+        <h2 class="methodology-title">Sources &amp; Methodology</h2>
+        <p>
+            This page is a synthesis for general readers, not a peer-reviewed monograph. Force strengths, casualty totals, and even some dates
+            often vary by archive and definition (killed only vs. all casualties; single-day totals vs. full campaigns). Where scholars disagree,
+            we prefer widely cited museum, official-history, and academic ranges over a single false precision.
+        </p>
+        <p>
+            Narrative chapters draw on established secondary literature and public primary-source collections linked in
+            <strong>Archives, Primary Sources &amp; Further Reading</strong>. Sidebars and “unusual facts” highlight well-documented details that
+            are easy to miss in short summaries; contested myths (for example cavalry charges, third-wave debates, or neat “five minutes” stories)
+            are flagged rather than repeated as settled fact. Quotes are attributed in context; some famous lines survive partly through memoir and
+            should be read with that caution.
+        </p>
+        <p class="methodology-footer-line">
+            Project by Arjun Divecha · <a href="../index.html#methodology">Site-wide methodology</a>
+        </p>
+    </section>
+
     <footer>
-        <p>A historical exploration project by Arjun Divecha. Statistics are approximate; wartime figures often remain disputed among historians.</p>
+        <p>Echoes of Conflict — a historical exploration project by Arjun Divecha.</p>
     </footer>
 </body>
 </html>
