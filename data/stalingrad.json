@@ -1,0 +1,129 @@
+{
+    "title": "Battle of Stalingrad",
+    "date": "August 23, 1942 - February 2, 1943",
+    "location": "Stalingrad, Soviet Union",
+    "result": "Decisive Soviet victory",
+    "outcome": "Destruction of the German 6th Army; Germany's offensive capability on the Eastern Front is broken.",
+    "allied_commanders": "Vasily Chuikov, Georgy Zhukov, Aleksandr Vasilevsky, Konstantin Rokossovsky",
+    "axis_commanders": "Friedrich Paulus, Erich von Manstein, Hermann Hoth",
+    "allied_forces": "Soviet Union: Over 1.1 million front-line soldiers, 894 tanks, 1,115 aircraft (at start of offensive)",
+    "axis_forces": "Axis: Approx. 1 million soldiers (including Romanian, Italian, and Hungarian divisions), 675 tanks, 1,210 aircraft",
+    "allied_casualties": "478,741 killed/missing, 650,878 wounded; over 40,000 civilians killed",
+    "axis_casualties": "Approx. 800,000 killed, wounded, or captured (including 110,000 Germans captured, of whom only 6,000 survived)",
+    "image": "assets/images/battle_of_stalingrad_1783712239181.png",
+    "chapters": [
+        {
+            "title": "Strategic Context & The Drive to the Volga",
+            "content": [
+                "By the spring of 1942, the German Wehrmacht had recovered from its defeat at Moscow. Recognizing that Germany lacked the resources to launch a general offensive along the entire Eastern Front, Hitler approved Fall Blau (Case Blue)\u2014a campaign directed into southern Russia. The goal was to capture the oil fields of Maikop, Grozny, and Baku in the Caucasus, which would fuel the German war machine and starve the Soviet military of fuel.",
+                "To protect the left flank of the advance, German Army Group B was ordered to advance to the Volga River and capture or destroy the industrial city of Stalingrad. The city was a major transport hub and bore the name of Joseph Stalin, making it an ideological prize for Hitler. As the German 6th Army under General Friedrich Paulus advanced, Hitler split his forces, ordering both the Caucasus oil drive and the capture of Stalingrad to occur simultaneously, stretching his logistics to the limit."
+            ]
+        },
+        {
+            "title": "Military Doctrines & War Plans",
+            "content": [
+                "The German doctrine of mobile warfare was suited for the open Russian steppe, where Panzers could envelop and destroy enemy forces. However, once the 6th Army entered the ruins of Stalingrad, this mobility was neutralized. The Germans were forced into close-quarters combat, where their tactical superiority in coordination and communications was less effective.",
+                "The Soviet plan, developed by General Vasily Chuikov, commander of the 62nd Army, relied on attrition. Chuikov ordered his troops to 'hug the enemy'\u2014to keep their front lines within hand-grenade distance of the Germans. This prevented the Luftwaffe and German artillery from bombing Soviet positions for fear of hitting their own men, forcing the Germans to fight for every building, room, and sewer."
+            ]
+        },
+        {
+            "title": "Weapons, Technology, and Logistics",
+            "content": [
+                "The battle was characterized by urban warfare weapons. Snipers played a major role, using Mosin-Nagant and Karabiner 98k rifles equipped with telescopic sights to terrorize enemy patrols. Submachine guns, like the Soviet PPSh-41 and the German MP 40, were favored for their high rate of fire in close quarters.",
+                {
+                    "type": "sidebar",
+                    "title": "Weapons Profile: The PPSh-41 Submachine Gun",
+                    "text": "The PPSh-41, with its 71-round drum magazine and high rate of fire, was the ultimate close-quarters weapon of the battle. It was so reliable and effective in dusty, rubble-strewn buildings that German soldiers frequently used captured PPSh-41s instead of their own MP 40s."
+                },
+                "Logistics were a nightmare for both sides. The Soviets were forced to ferry reinforcements and supplies across the wide Volga River under constant German artillery fire and air attacks. The Germans relied on a single rail line across the steppe, which was vulnerable to partisan attacks and struggled to supply the 6th Army with fuel and ammunition."
+            ]
+        },
+        {
+            "title": "Opening Moves & Initial Clash",
+            "content": [
+                "The battle began on August 23, 1942, with a massive bombing raid by Luftflotte 4, which dropped thousands of tons of bombs on Stalingrad, reducing the city to rubble and killing over 40,000 civilians. German armored patrols reached the Volga north of the city on the same day.",
+                "In September, the 6th Army entered the city, initiating the street fighting. The Germans advanced slowly, capturing the central railway station and the Mamayev Kurgan hill, only to face counterattacks the next day. The fighting centered on major industrial sites, including the Red October Steel Factory and the Barrikady Gun Factory, where workers produced and repaired tanks directly on the front lines."
+            ]
+        },
+        {
+            "title": "The Rat War (Rattenkrieg)",
+            "content": [
+                "The combat inside the ruined city was brutal, described by German soldiers as Rattenkrieg (Rat War). The battle was fought in three dimensions: in sewers, cellars, ruins, and attics. Snipers, most notably Vasily Zaytsev, who killed over 220 German soldiers during the battle, became national heroes, while their stories were used by Soviet propaganda to boost morale.",
+                "Buildings like 'Pavlov's House'\u2014a four-story apartment building fortified by Sergeant Yakov Pavlov\u2014became famous. Pavlov's small squad defended the building for 58 days against repeated German attacks, using machine guns, anti-tank rifles, and mines, and proving that a small, determined force could hold out in the ruins."
+            ]
+        },
+        {
+            "title": "The Soviet Encirclement: Operation Uranus",
+            "content": [
+                "While the German 6th Army was focused on capturing the last pockets of Soviet resistance along the Volga, the Soviet High Command (Stavka), led by Zhukov and Vasilevsky, secretly massed over a million men on the northern and southern flanks of the city. These flanks were guarded by Romanian, Italian, and Hungarian armies, which lacked heavy anti-tank weapons.",
+                "On November 19, 1942, the Soviets launched Operation Uranus. The Red Army smashed through the Romanian defenses, and within four days, the two pincer arms met at Kalach-na-Donu, encircling the German 6th Army, along with parts of the 4th Panzer Army and Romanian units, trapping over 250,000 Axis troops inside the city."
+            ]
+        },
+        {
+            "title": "The Siege & The Failed Relief Campaign",
+            "content": [
+                "General Paulus requested permission to break out of the encirclement, but Hitler refused, ordering the 6th Army to hold its positions. Reichsmarschall Hermann G\u00f6ring assured Hitler that the Luftwaffe could supply the trapped army by air, claiming they could deliver 300 tons of supplies daily. In reality, the Luftwaffe lacked the transport aircraft, and Soviet fighters and anti-aircraft fire decimated their formations, averaging less than 90 tons of supplies a day.",
+                "In December, Field Marshal Erich von Manstein launched Operation Winter Storm, an armored relief attempt to break the Soviet ring. However, they were halted 30 miles from the pocket. Hitler refused to allow Paulus to launch a coordinated breakout to meet Manstein's forces, condemning the 6th Army to starvation and freezing temperatures."
+            ]
+        },
+        {
+            "title": "Surrender and Tragedy",
+            "content": [
+                "By January 1943, the trapped German soldiers were starving, freezing, and running out of ammunition. The Soviets launched Operation Ring, systematically crushing the pocket. On January 30, Hitler promoted Paulus to Field Marshal, noting that no German field marshal had ever surrendered, implying Paulus should commit suicide.",
+                "Paulus refused, and on January 31, 1943, he surrendered his headquarters. The remaining Axis forces in the northern pocket capitulated on February 2. Over 91,000 Axis soldiers were captured, including 24 generals. Placed in Soviet labor camps, most died of typhus, malnutrition, and exposure; only 6,000 survived to return to Germany after the war."
+            ]
+        },
+        {
+            "title": "The Aftermath & Strategic Consequences",
+            "content": [
+                "The Battle of Stalingrad was the turning point of the war in Europe. The Wehrmacht lost an entire field army, along with hundreds of thousands of allied Axis troops, armor, and aircraft. This defeat broke the back of the German offensive capability on the Eastern Front, forcing them onto a permanent defensive retreat.",
+                "The victory boosted Allied morale and shattered the myth of German military invincibility. It confirmed the Red Army's capability in planning and executing large-scale encirclement operations, and marked the start of the long Soviet advance that would lead to Berlin."
+            ]
+        },
+        {
+            "title": "Historical Legacy & Long-term Impact",
+            "content": [
+                "Stalingrad remains a symbol of urban warfare, sacrifice, and military turning points. The battle's scale and high casualty rate make it one of the deadliest engagements in human history. The Mamayev Kurgan hill in modern Volgograd is dominated by 'The Motherland Calls' statue, commemorating the Soviet soldiers who fell during the defense of the city.",
+                "The battle also highlights the disastrous impact of Hitler's ideological obsessions and micromanagement on military operations, which overrode the warnings of his generals and condemned a quarter-million soldiers to death."
+            ]
+        },
+        {
+            "title": "Tactical Map & Theater of Operations",
+            "content": [
+                "An operational view of the urban sectors and defensive strongpoints within the city:",
+                {
+                    "type": "map",
+                    "url": "../assets/images/maps/map_stalingrad.png",
+                    "alt": "Battle of Stalingrad Tactical Map",
+                    "caption": "Battle of Stalingrad, 1942: Mapping the urban combat sectors along the Volga River, key factory defenses, and the Soviet outer pocket lines."
+                }
+            ]
+        },
+        {
+            "title": "Archives, Primary Sources & Further Reading",
+            "content": [
+                "To read diaries, operational logs, and research files on the Battle of Stalingrad:",
+                {
+                    "type": "sources",
+                    "items": [
+                        {
+                            "title": "History Channel - Battle of Stalingrad Summary",
+                            "url": "https://www.history.com/topics/world-war-ii/battle-of-stalingrad",
+                            "desc": "A comprehensive summary of the battle, featuring documentary videos, photo collections, and timelines."
+                        },
+                        {
+                            "title": "Imperial War Museums - What to Know About the Battle of Stalingrad",
+                            "url": "https://www.iwm.org.uk/history/what-you-need-to-know-about-the-battle-of-stalingrad",
+                            "desc": "An archival display exploring why Stalingrad was the strategic turning point of the European conflict."
+                        },
+                        {
+                            "title": "The Volgograd State Panoramic Museum of Stalingrad",
+                            "url": "https://stalingrad-battle.ru/",
+                            "desc": "The official museum repository containing original weapons, letters, diaries, and maps from the battle."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

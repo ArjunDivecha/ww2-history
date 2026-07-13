@@ -103,16 +103,6 @@ const battles = [
 
 document.addEventListener('DOMContentLoaded', () => {
     const grid = document.getElementById('battles-grid');
-    const modal = document.getElementById('battle-modal');
-    const closeModalBtn = document.getElementById('close-modal');
-    
-    // Elements to update in modal
-    const modalImg = document.getElementById('modal-img');
-    const modalDate = document.getElementById('modal-date');
-    const modalTitle = document.getElementById('modal-title');
-    const modalLocation = document.getElementById('modal-location');
-    const modalResult = document.getElementById('modal-result');
-    const modalDesc = document.getElementById('modal-description');
 
     // Render cards
     battles.forEach((battle, index) => {
@@ -134,43 +124,12 @@ document.addEventListener('DOMContentLoaded', () => {
             </div>
         `;
         
-        // Add click event to open modal
-        card.addEventListener('click', () => openModal(battle));
+        // Add click event to navigate to detail page
+        card.addEventListener('click', () => {
+            window.location.href = `battles/${battle.id}.html`;
+        });
         
         grid.appendChild(card);
-    });
-
-    // Modal Functions
-    function openModal(battle) {
-        modalImg.src = battle.image;
-        modalImg.alt = battle.title;
-        modalDate.textContent = battle.date;
-        modalTitle.textContent = battle.title;
-        modalLocation.textContent = battle.location;
-        modalResult.textContent = battle.result;
-        modalDesc.innerHTML = battle.description;
-        
-        modal.classList.remove('hidden');
-        document.body.style.overflow = 'hidden'; // Prevent background scrolling
-    }
-
-    function closeModal() {
-        modal.classList.add('hidden');
-        document.body.style.overflow = ''; // Restore background scrolling
-    }
-
-    closeModalBtn.addEventListener('click', closeModal);
-    modal.addEventListener('click', (e) => {
-        if (e.target.classList.contains('modal-backdrop')) {
-            closeModal();
-        }
-    });
-
-    // Keyboard support for closing modal
-    document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
-            closeModal();
-        }
     });
 
     // Intersection Observer for fade-in scroll animation
@@ -178,8 +137,6 @@ document.addEventListener('DOMContentLoaded', () => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
                 entry.target.classList.add('visible');
-                // Optional: stop observing once it's visible
-                // observer.unobserve(entry.target);
             }
         });
     }, {

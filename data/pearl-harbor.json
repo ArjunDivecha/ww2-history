@@ -1,0 +1,129 @@
+{
+    "title": "Attack on Pearl Harbor",
+    "date": "December 7, 1941",
+    "location": "Pearl Harbor, Hawaii, US",
+    "result": "Major Japanese tactical victory",
+    "outcome": "United States formal entry into World War II; declarations of war by Germany and Italy on the US.",
+    "allied_commanders": "Husband E. Kimmel, Walter C. Short, Franklin D. Roosevelt",
+    "axis_commanders": "Isoroku Yamamoto, Ch\u016bichi Nagumo, Mitsuo Fuchida",
+    "allied_forces": "US Pacific Fleet: 8 battleships, 8 cruisers, 30 destroyers, 4 submarines, 390 aircraft",
+    "axis_forces": "Imperial Japanese Navy: 6 aircraft carriers, 2 battleships, 3 cruisers, 9 destroyers, 353 aircraft",
+    "allied_casualties": "2,403 killed, 1,178 wounded, 4 battleships sunk, 4 battleships damaged, 188 aircraft destroyed",
+    "axis_casualties": "64 killed, 29 aircraft destroyed, 5 midget submarines sunk, 1 captured",
+    "image": "assets/images/pearl_harbor_1783712216007.png",
+    "chapters": [
+        {
+            "title": "Strategic Context & Geopolitical Buildup",
+            "content": [
+                "Tensions between the United States and the Empire of Japan had been mounting for decades over control of East Asia and the Pacific. Following Japan's invasion of China in 1937 and its subsequent occupation of French Indochina in 1940, the United States, along with Great Britain and the Netherlands, imposed a total embargo on oil and scrap metal exports to Japan. This oil embargo threatened to paralyze the Japanese war machine and economy within two years, as Japan imported over 80% of its oil from the US.",
+                "Faced with the choice of yielding to American demands to withdraw from China and Indochina, or seizing the resource-rich European colonies in Southeast Asia, the Japanese military leadership chose war. Admiral Isoroku Yamamoto, commander of the Combined Fleet, conceived a surprise strike on the US Pacific Fleet at Pearl Harbor. The goal was to destroy the American battleships and carriers, preventing them from interfering with Japan's planned expansion into the Dutch East Indies and Malaya."
+            ]
+        },
+        {
+            "title": "Military Doctrines & War Plans",
+            "content": [
+                "The Japanese plan relied on total surprise and the concentration of carrier-based aviation. Six fleet carriers (the Kido Butai) under Vice Admiral Ch\u016bichi Nagumo were to sail in secret across the North Pacific, maintaining strict radio silence. The air crews had trained for months, developing specialized shallow-water torpedoes equipped with wooden fins to prevent them from sinking into the mud of Pearl Harbor.",
+                "The US military, conversely, was unprepared for an air attack. Intelligence believed that any Japanese strike would target the Philippines or Malaya. General Walter Short, commander of army defenses in Hawaii, feared sabotage and ordered all aircraft to be parked wingtip-to-wingtip on the runways to make them easier to guard, which unintentionally made them perfect targets for bombers."
+            ]
+        },
+        {
+            "title": "Weapons, Technology, and Logistics",
+            "content": [
+                "The Japanese strike force deployed the Mitsubishi A6M Zero fighter, the Nakajima B5N 'Kate' torpedo bomber, and the Aichi D3A 'Val' dive-bomber. The Zero was highly agile, outclassing any American fighter in Hawaii, while the Kate was highly effective when carrying shallow-water torpedoes or heavy armor-piercing bombs made from converted battleship shells.",
+                {
+                    "type": "sidebar",
+                    "title": "Technology Profile: Wooden Fin Torpedoes",
+                    "text": "Pearl Harbor's average depth was only 40 feet. Standard torpedoes required at least 75 feet to recover from their initial dive. The Japanese fitted their Type 91 torpedoes with wooden tail fins that broke off upon impact with the water, stabilizing the weapon and keeping it near the surface."
+                },
+                "The US defenses possessed SCR-270 radar stations. On the morning of the attack, two operators at the Opana Radar Site detected a large echo. However, the information center officer assumed it was a scheduled flight of American B-17 bombers from California and told the operators not to worry."
+            ]
+        },
+        {
+            "title": "Opening Moves & Initial Clash",
+            "content": [
+                "The Kido Butai reached its launching point 230 miles north of Oahu at dawn on December 7, 1941. At 6:00 AM, the first wave of 183 aircraft took off, led by Commander Mitsuo Fuchida. Simultaneously, Japanese midget submarines attempted to infiltrate the harbor; one was detected and sunk by the destroyer USS Ward, which fired the first American shots of the war.",
+                "At 7:49 AM, Fuchida looked down at the peaceful base and radioed the code 'Tora! Tora! Tora!' (Tiger! Tiger! Tiger!), signaling that complete surprise had been achieved. Moments later, the first bombs began to fall on the airfields at Wheeler, Hickam, and Kaneohe, destroying dozens of parked American aircraft before they could take off."
+            ]
+        },
+        {
+            "title": "The Battle: Two Waves of Terror",
+            "content": [
+                "The attack unfolded in two waves. The first wave targeted 'Battleship Row' along Ford Island. The USS Arizona was struck by an armor-piercing bomb that penetrated its forward magazine, causing a massive explosion that sank the ship and killed 1,177 crewmen. The USS Oklahoma was hit by multiple torpedoes, capsizing and trapping hundreds of men inside.",
+                "The second wave of 170 aircraft arrived at 8:54 AM, targeting dry docks and other ships. American soldiers and sailors fought back bravely with anti-aircraft guns, machine guns, and rifles. A few US fighters, notably flown by Lieutenants George Welch and Kenneth Taylor, managed to take off and shot down several Japanese planes, but the damage was already done."
+            ]
+        },
+        {
+            "title": "The Strategic Decision: No Third Wave",
+            "content": [
+                "By 10:00 AM, the Japanese aircraft returned to their carriers. Nagumo decided not to launch a third wave, despite recommendations from junior officers. He feared American land-based bombers and did not know the locations of the US aircraft carriers, which were out of port on maneuvers.",
+                "This decision had major strategic consequences. The attack failed to destroy the base's massive oil storage tanks, repair shops, submarine pens, and dry docks. Had these facilities been destroyed, the US Navy would have been forced to withdraw its Pacific operations to San Diego, delaying their counteroffensive by years."
+            ]
+        },
+        {
+            "title": "Pivot Points & Key Tactical Decisions",
+            "content": [
+                "The most critical factor was the absence of the US carriers USS Enterprise, USS Lexington, and USS Saratoga. These ships escaped damage, preserving the core offensive power of the Pacific Fleet and allowing Nimitz to fight the carrier battles of Coral Sea and Midway in 1942.",
+                "Another factor was the failure of the Japanese to issue a formal declaration of war before the attack. The message from Tokyo was delayed by translation issues, and was delivered to Secretary of State Cordell Hull after the bombs had already fallen. This delay enraged the American public, uniting them in a state of absolute resolve."
+            ]
+        },
+        {
+            "title": "The Soldier's Ordeal & Civilian Impact",
+            "content": [
+                "For the men at Pearl Harbor, the morning was a chaotic nightmare of explosions, burning oil, and black smoke. Sailors jumped into water covered in burning fuel to escape their sinking ships. Medics worked under fire to treat horrific burn injuries. The heroism of individuals like Doris Miller, a Mess Attendant who manned an anti-aircraft gun on the USS West Virginia and received the Navy Cross, became a symbol of national unity.",
+                "Civilians in Honolulu were caught in the crossfire. Scattered anti-aircraft shells fell in residential areas, killing 68 civilians. The US government immediately declared martial law in Hawaii, suspending civil liberties, imposing blackouts, and placing the entire territory under military control, which lasted for the duration of the war."
+            ]
+        },
+        {
+            "title": "The Aftermath & Immediate Consequences",
+            "content": [
+                "On December 8, 1941, President Roosevelt addressed a joint session of Congress, calling December 7 'a date which will live in infamy' and requesting a declaration of war against Japan, which was approved with only one dissenting vote. On December 11, Adolf Hitler and Benito Mussolini declared war on the United States, officially bringing America into the European conflict.",
+                "The attack succeeded in temporarily neutralizing the US battleship fleet, but it failed to achieve Japan's goal of breaking American resolve. Instead, it galvanized the industrial, economic, and military power of the United States, transitioning it into the 'Arsenal of Democracy' and sealing the fate of the Axis powers."
+            ]
+        },
+        {
+            "title": "Historical Legacy & Long-term Impact",
+            "content": [
+                "Pearl Harbor remains a symbol of military surprise, intelligence failure, and national resilience. It led to the decline of the battleship and the rise of the aircraft carrier as the primary weapon of naval warfare.",
+                "The attack also led to the forced internment of over 110,000 Japanese-Americans living on the West Coast under Executive Order 9066, a decision later recognized as a major violation of civil liberties and fueled by racial prejudice and wartime hysteria."
+            ]
+        },
+        {
+            "title": "Tactical Map & Theater of Operations",
+            "content": [
+                "A map illustrating the tactical vectors of the Japanese Imperial Navy's surprise strike waves over Oahu:",
+                {
+                    "type": "map",
+                    "url": "../assets/images/maps/map_pearl_harbor.png",
+                    "alt": "Attack on Pearl Harbor Tactical Map",
+                    "caption": "Pearl Harbor Attack, December 7, 1941: Displaying the Japanese strike routes over Oahu and the target battleships anchored at Battleship Row."
+                }
+            ]
+        },
+        {
+            "title": "Archives, Primary Sources & Further Reading",
+            "content": [
+                "For original documents, logs, and research files on Pearl Harbor:",
+                {
+                    "type": "sources",
+                    "items": [
+                        {
+                            "title": "Library of Congress - World War II Documents",
+                            "url": "https://www.loc.gov/collections/world-war-ii-original-documents/about-this-collection/",
+                            "desc": "Primary source collection featuring Roosevelt's Infamy draft speech, radio transcripts, and naval logs."
+                        },
+                        {
+                            "title": "History Channel - Attack on Pearl Harbor",
+                            "url": "https://www.history.com/topics/world-war-ii/pearl-harbor",
+                            "desc": "A multi-media portal containing documentary footage, interactive maps, and historical articles."
+                        },
+                        {
+                            "title": "USS Arizona Memorial Official Site",
+                            "url": "https://www.nps.gov/valr/index.htm",
+                            "desc": "National Park Service page documenting the casualties, preservation efforts, and history of the USS Arizona."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

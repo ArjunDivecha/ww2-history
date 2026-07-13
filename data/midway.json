@@ -1,0 +1,129 @@
+{
+    "title": "Battle of Midway",
+    "date": "June 4-7, 1942",
+    "location": "Midway Atoll, Pacific Ocean",
+    "result": "Decisive American victory",
+    "outcome": "Permanent damage to the Imperial Japanese Navy; the strategic initiative in the Pacific shifts to the Allies.",
+    "allied_commanders": "Chester W. Nimitz, Frank Jack Fletcher, Raymond A. Spruance",
+    "axis_commanders": "Isoroku Yamamoto, Nobutake Kond\u014d, Ch\u016bichi Nagumo, Tamon Yamaguchi",
+    "allied_forces": "US Navy: 3 aircraft carriers, 8 cruisers, 15 destroyers, 233 carrier aircraft, 127 land-based aircraft",
+    "axis_forces": "Imperial Japanese Navy: 4 fleet aircraft carriers, 2 battleships, 12 destroyers, 248 carrier aircraft",
+    "allied_casualties": "307 killed, 1 aircraft carrier (USS Yorktown) sunk, 1 destroyer sunk, 150 aircraft destroyed",
+    "axis_casualties": "3,057 killed, 4 fleet aircraft carriers sunk, 1 heavy cruiser sunk, 248 aircraft destroyed",
+    "image": "assets/images/battle_of_midway_1783712222034.png",
+    "chapters": [
+        {
+            "title": "Strategic Context & The Intelligence War",
+            "content": [
+                "Following the success of their early offensives, the Japanese military sought to expand their defensive perimeter in the Pacific. Admiral Isoroku Yamamoto conceived a plan to lure the remaining US aircraft carriers into a decisive battle by invading the Midway Atoll, a tiny outpost northwest of Hawaii. Yamamoto believed that the US carriers, which had escaped Pearl Harbor and launched the daring Doolittle Raid on Tokyo, were the primary threat to the Japanese Empire.",
+                "However, the Japanese plan was compromised by American cryptanalysts. Station HYPO in Hawaii, led by Commander Joseph Rochefort, had partially decrypted the Japanese naval code, JN-25. Rochefort's team suspected that the target 'AF' was Midway. To confirm this, they instructed the Midway base to send an unencrypted message claiming their water distillation system had broken. Shortly after, a decrypted Japanese dispatch reported that 'AF was short of water', confirming Midway as the target and allowing Admiral Chester Nimitz to plan an ambush."
+            ]
+        },
+        {
+            "title": "Military Doctrines & War Plans",
+            "content": [
+                "The Japanese plan was highly complex, involving multiple divisions, including a diversionary attack on the Aleutian Islands. It relied on secrecy and the assumption that the US fleet would only react after the landings at Midway had begun. The carriers under Admiral Nagumo were to launch air strikes to neutralize Midway's defenses before the arrival of the invasion fleet.",
+                "The American plan was simple and direct. Nimitz concentrated his three available carriers\u2014USS Enterprise, USS Hornet, and the carrier USS Yorktown, which had been quickly repaired in Pearl Harbor after sustaining damage at the Battle of the Coral Sea\u2014northeast of Midway. The US forces waited in secret, using search planes to locate the Japanese fleet before they were detected."
+            ]
+        },
+        {
+            "title": "Weapons, Technology, and Logistics",
+            "content": [
+                "The battle showcased carrier-based aircraft technology. The Japanese Mitsubishi A6M Zero was highly agile, easily outclassing the American Grumman F4F Wildcat. However, the Wildcat was more rugged and utilized tactics like the 'Thach Weave' to counter the Zero's maneuverability.",
+                {
+                    "type": "sidebar",
+                    "title": "Tactics Profile: The Thach Weave",
+                    "text": "Developed by John Thach, this defensive maneuver involved two Wildcats flying abreast. When a Zero attacked one fighter, they crossed paths, allowing the second Wildcat to fire a head-on shot at the pursuer, neutralizing the Zero's speed advantage."
+                },
+                "The primary American strike weapon was the Douglas SBD Dauntless dive-bomber, which delivered heavy armor-piercing bombs in steep dives. The Japanese carriers, although fast, lacked armored flight decks and had inadequate anti-aircraft fire control systems, leaving them vulnerable to diving attacks."
+            ]
+        },
+        {
+            "title": "Opening Moves & Initial Clash",
+            "content": [
+                "On June 4, 1942, Nagumo launched his first wave of 108 aircraft against Midway. The strike caused heavy damage to the base but did not destroy its airfields. Nagumo prepared a second wave, arming his aircraft with bombs to strike Midway again.",
+                "Simultaneously, American patrol planes located the Japanese carriers. At 7:00 AM, the US carriers began launching their aircraft. Shortly after, a Japanese search plane spotted the US fleet, reporting the presence of a carrier. Nagumo was forced to halt the rearmament, ordering his crews to switch from ground-bombs back to torpedoes to target the American ships, leaving the decks covered in fuel lines and munitions."
+            ]
+        },
+        {
+            "title": "The Turning Point: The Five Fatal Minutes",
+            "content": [
+                "The initial American air attacks were uncoordinated and met with disaster. Torpedo bomber squadrons from Hornet and Enterprise attacked without fighter escort, and were shot down by Zero fighters; out of 41 torpedo planes, only six returned. However, this sacrifice drew the Japanese Zero fighters down to sea level, leaving the skies above empty.",
+                "At 10:22 AM, three squadrons of Douglas SBD Dauntless dive-bombers from Enterprise and Yorktown arrived simultaneously at high altitude, completely undetected. They plunged through the clouds, striking the Japanese carriers Akagi, Kaga, and Soryu as their decks were packed with fueled and armed planes. Within five minutes, all three carriers were burning out of control, reduced to smoking wrecks."
+            ]
+        },
+        {
+            "title": "The Final Carrier Engagements",
+            "content": [
+                "The remaining Japanese carrier, Hiryu, commanded by Rear Admiral Tamon Yamaguchi, launched a retaliatory strike that located and heavily damaged the USS Yorktown. Yorktown's crew managed to extinguish fires and restore power, but a second Japanese strike hit the carrier with torpedoes, forcing the captain to order abandon ship.",
+                "At 4:00 PM, dive-bombers from Enterprise and Yorktown located Hiryu, striking it with several bombs and leaving it burning. Hiryu was scuttled the next morning. With all four Japanese carriers destroyed, Admiral Yamamoto was forced to cancel the invasion of Midway and order a general retreat, ending the battle."
+            ]
+        },
+        {
+            "title": "Pivot Points & Key Decisions",
+            "content": [
+                "The most critical decision was Nimitz's trust in his intelligence officers. Had he ignored Rochefort's analysis, the US fleet would have been out of position, allowing Japan to capture Midway and threaten Hawaii.",
+                "Another pivot point was Nagumo's decision to rearm his planes on the flight decks. This delay, combined with the decoy attacks by the American torpedo bombers, created the perfect opportunity for the US dive-bombers to strike the Japanese carriers at their most vulnerable moment."
+            ]
+        },
+        {
+            "title": "The Soldier's Ordeal & Civilian Impact",
+            "content": [
+                "For the aircrews, the battle was a deadly test. Pilots flew long distances over the ocean, knowing that mechanical failure or damage meant landing in the water with little hope of rescue. The story of Ensign George Gay, the sole survivor of Torpedo Squadron 8, who floated in the water for hours watching the destruction of the Japanese fleet, highlighted the high casualty rate.",
+                "Midway Atoll was populated by a few hundred US military personnel. The bombing raid on June 4 killed 11 personnel and destroyed fuel tanks and hangers. The base remained operational, serving as a critical refueling stop for search planes and submarines that hunted the retreating Japanese fleet."
+            ]
+        },
+        {
+            "title": "The Aftermath & Strategic Consequences",
+            "content": [
+                "The Battle of Midway was a catastrophic defeat for Japan, which lost four fleet carriers, one heavy cruiser, and over 240 aircraft. More importantly, they lost over 110 experienced pilots and hundreds of skilled aircraft mechanics, who could not be easily replaced.",
+                "This victory established parity in carrier forces in the Pacific and allowed the Allies to transition from a desperate defense to a counteroffensive strategy. Just two months later, the US Marines landed on Guadalcanal, initiating the island-hopping campaign that would lead to the home islands of Japan."
+            ]
+        },
+        {
+            "title": "Historical Legacy & Long-term Impact",
+            "content": [
+                "Midway is celebrated as one of the most decisive naval victories in military history. It demonstrated that codebreaking, information superiority, and carrier aviation had replaced the battleship as the decisive factors in naval warfare.",
+                "The battle also highlights the role of chance in war\u2014the timing of the dive-bombers' arrival, just as the Japanese fighters were at low altitude, remains a classic example of how a few minutes can decide the fate of nations."
+            ]
+        },
+        {
+            "title": "Tactical Map & Theater of Operations",
+            "content": [
+                "A reconstruction of carrier maneuvering and air search sectors in the Pacific theater:",
+                {
+                    "type": "map",
+                    "url": "../assets/images/maps/map_midway.png",
+                    "alt": "Battle of Midway Tactical Map",
+                    "caption": "Battle of Midway, June 1942: Illustrating the search sectors, aircraft carrier positions, and tactical engagement coordinates that decided the carrier battle."
+                }
+            ]
+        },
+        {
+            "title": "Archives, Primary Sources & Further Reading",
+            "content": [
+                "To read official war reports, decrypts, and maps from the battle:",
+                {
+                    "type": "sources",
+                    "items": [
+                        {
+                            "title": "The National WWII Museum - Battle of Midway",
+                            "url": "https://www.nationalww2museum.org/war/articles/battle-midway",
+                            "desc": "An analysis of the intelligence victory and carrier combat that turned the tide in the Pacific."
+                        },
+                        {
+                            "title": "Encyclopedia Britannica - Battle of Midway",
+                            "url": "https://www.britannica.com/event/Battle-of-Midway",
+                            "desc": "A detailed historical overview of the carrier operations and strategic outcomes of Midway."
+                        },
+                        {
+                            "title": "The Joseph Rochefort Papers - Station HYPO Archives",
+                            "url": "https://www.loc.gov/",
+                            "desc": "Personal diaries, notes, and code sheets detailing the decryption of the JN-25 code in 1942."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
